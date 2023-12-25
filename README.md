@@ -1,2 +1,17 @@
-# NCISurvey
-Neural Code Intelligence Survey 2023
+## Paradigm, Model and Application: A Systematic Survey of Neural Code Intelligence
+This is the repository of survey poapaer: **Paradigm, Model and Application: A Systematic Survey of Neural Code Intelligence**.
+
+ [[Paper](https://qiushisun.github.io/)]
+ 
+[![arXiv](https://img.shields.io/badge/arXiv-2304.00685-b31b1b.svg)](https://arxiv.org/abs/2304.00685) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+
+*Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing here.*
+
+## News
+Last update on 2023/12/25, Merry Christmas🍎🎄
+
+## Citation 📖
+
+If you are interested in our work, please use the following citation format when referencing our paper:
