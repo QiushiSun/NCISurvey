@@ -21,6 +21,7 @@ Introducing our survey paper.
 
 - [Language Models for Code](https://github.com/QiushiSun/NCISurvey/blob/main/CodeLMs.md)
 - [Evaluations and Benchmarks](https://github.com/QiushiSun/NCISurvey/blob/main/Benchmarks.md)
+- [Code Repair](https://github.com/QiushiSun/NCISurvey/blob/main/Repair.md)
 - [Reasoning with Code Synthesis](https://github.com/QiushiSun/NCISurvey/blob/main/Reasoning.md)
 
 
