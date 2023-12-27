@@ -10,6 +10,16 @@
    *Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao, Jun Liu*
 
 
+3. [EMNLP 2023] **LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers** [![arXiv](https://img.shields.io/badge/arXiv-2310.15164-b31b1b.svg)](https://arxiv.org/abs/2310.15164), 2023.10
+
+   *Theo X. Olausson, Alex Gu, Benjamin Lipkin, Cedegao E. Zhang, Armando Solar-Lezama, Joshua B. Tenenbaum, Roger Levy*
+
+   
+2. [Preprint] **Language Models can be Logical Solvers** [![arXiv](https://img.shields.io/badge/arXiv-2311.06158-b31b1b.svg)](https://arxiv.org/abs/2311.06158), 2023.11
+
+   *Jiazhan Feng, Ruochen Xu, Junheng Hao, Hiteshi Sharma, Yelong Shen, Dongyan Zhao, Weizhu Chen*
+
+
 3. [ICLR 2024 Under Review] **Lemur: Harmonizing Natural Language and Code for Language Agents** [![arXiv](https://img.shields.io/badge/arXiv-2310.06830-b31b1b.svg)](https://arxiv.org/abs/2310.06830), 2023.10
 
    *Yiheng Xu, Hongjin Su, Chen Xing, Boyu Mi, Qian Liu, Weijia Shi, Binyuan Hui, Fan Zhou, Yitao Liu, Tianbao Xie, Zhoujun Cheng, Siheng Zhao, Lingpeng Kong, Bailin Wang, Caiming Xiong, Tao Yu*
