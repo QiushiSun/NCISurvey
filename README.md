@@ -19,9 +19,9 @@ Introducing our survey paper.
 
 ## Paper Collections 📚
 
-- [Language Models for Code](https://github.com/QiushiSun/NCISurvey/main/CodeLMs.md)
-- [Evaluations and Benchmarks](https://github.com/QiushiSun/NCISurvey/main/Benchmarks.md)
-- [Reasoning with Code Synthesis](https://github.com/QiushiSun/NCISurvey/main/Reasoning.md)
+- [Language Models for Code](https://github.com/QiushiSun/NCISurvey/blob/main/CodeLMs.md)
+- [Evaluations and Benchmarks](https://github.com/QiushiSun/NCISurvey/blob/main/Benchmarks.md)
+- [Reasoning with Code Synthesis](https://github.com/QiushiSun/NCISurvey/blob/main/Reasoning.md)
 
 
 ## Citation 📖
