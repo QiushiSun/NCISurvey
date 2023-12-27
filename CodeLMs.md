@@ -6,7 +6,7 @@
    
   *Aditya Kanade, Petros Maniatis, Gogul Balakrishnan, Kensen Shi* 
 
-1. [EMNLP2020] **CodeBERT: A Pre-Trained Model for Programming and Natural Languages.** [![arXiv](https://img.shields.io/badge/arXiv-2002.08155-b31b1b.svg)](https://arxiv.org/abs/2002.08155), 2020.02
+2. [EMNLP2020] **CodeBERT: A Pre-Trained Model for Programming and Natural Languages.** [![arXiv](https://img.shields.io/badge/arXiv-2002.08155-b31b1b.svg)](https://arxiv.org/abs/2002.08155), 2020.02
    
   *Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou* 
 
