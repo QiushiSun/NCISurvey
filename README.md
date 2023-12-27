@@ -9,8 +9,20 @@ This is the repository of survey poapaer: **Paradigm, Model and Application: A S
 
 *Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing here.*
 
-## News
+## News 📰
 Last update on 2023/12/25, Merry Christmas🍎🎄
+
+## Introduction 📜
+
+Introducing our survey paper.
+
+
+## Paper Collections 📚
+
+- [Language Models for Code](https://github.com/QiushiSun/NCISurvey/main/CodeLMs.md)
+- [Evaluations and Benchmarks](https://github.com/QiushiSun/NCISurvey/main/Benchmarks.md)
+- [Reasoning with Code Synthesis](https://github.com/QiushiSun/NCISurvey/main/Reasoning.md)
+
 
 ## Citation 📖
 
