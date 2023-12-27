@@ -14,7 +14,7 @@
 
    *Theo X. Olausson, Alex Gu, Benjamin Lipkin, Cedegao E. Zhang, Armando Solar-Lezama, Joshua B. Tenenbaum, Roger Levy*
 
-   
+
 2. [Preprint] **Language Models can be Logical Solvers** [![arXiv](https://img.shields.io/badge/arXiv-2311.06158-b31b1b.svg)](https://arxiv.org/abs/2311.06158), 2023.11
 
    *Jiazhan Feng, Ruochen Xu, Junheng Hao, Hiteshi Sharma, Yelong Shen, Dongyan Zhao, Weizhu Chen*
@@ -53,6 +53,16 @@
 4. [Preprint] **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency** [![arXiv](https://img.shields.io/badge/arXiv-2304.11477-b31b1b.svg)](https://arxiv.org/abs/2304.11477), 2023.04
 
    *Bo Liu, Yuqian Jiang, Xiaohan Zhang, Qiang Liu, Shiqi Zhang, Joydeep Biswas, Peter Stone*
+
+
+5. [Preprint] **ViperGPT: Visual Inference via Python Execution for Reasoning** [![arXiv](https://img.shields.io/badge/arXiv-2303.08128-b31b1b.svg)](https://arxiv.org/abs/2303.08128), 2023.03
+
+   *Dídac Surís, Sachit Menon, Carl Vondrick*
+
+
+5. [Preprint] **Toolformer: Language Models Can Teach Themselves to Use Tools** [![arXiv](https://img.shields.io/badge/arXiv-2302.04761-b31b1b.svg)](https://arxiv.org/abs/2302.04761), 2023.02
+
+   *Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom*
 
 
 3. [TMLR 2023] **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks** [![arXiv](https://img.shields.io/badge/arXiv-2211.12588-b31b1b.svg)](https://arxiv.org/abs/2211.12588)
