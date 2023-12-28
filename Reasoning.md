@@ -34,6 +34,9 @@
 
    *Xiang Yue, Xingwei Qu, Ge Zhang, Yao Fu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen*
 
+3. [AAAI2024] **When Do Program-of-Thoughts Work for Reasoning?** [![arXiv](https://img.shields.io/badge/arXiv-2308.15452-b31b1b.svg)](https://arxiv.org/abs/2308.15452), 2023.08
+
+   *Zhen Bi, Ningyu Zhang, Yinuo Jiang, Shumin Deng, Guozhou Zheng, Huajun Chen*
 
 3. [Preprint] **Code Prompting: a Neural Symbolic Method for Complex Reasoning in Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2305.18507-b31b1b.svg)](https://arxiv.org/abs/2305.18507), 2023.05
 
@@ -65,11 +68,19 @@
    *Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom*
 
 
-3. [TMLR 2023] **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks** [![arXiv](https://img.shields.io/badge/arXiv-2211.12588-b31b1b.svg)](https://arxiv.org/abs/2211.12588)
+3. [TMLR 2023] **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks** [![arXiv](https://img.shields.io/badge/arXiv-2211.12588-b31b1b.svg)](https://arxiv.org/abs/2211.12588), 2022.11
+
+   *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen*
+
+
+2. [ICML 2023] **PAL: Program-aided Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2211.10435-b31b1b.svg)](https://arxiv.org/abs/2211.10435), 2022.11
 
    *Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig*
 
+3. [Preprint] **Solving Linear Algebra by Program Synthesis** [![arXiv](https://img.shields.io/badge/arXiv-2111.08171-b31b1b.svg)](https://arxiv.org/abs/2111.08171), 2021.11
 
-2. [ICML 2023] **PAL: Program-aided Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2211.10435-b31b1b.svg)](https://arxiv.org/abs/2211.10435)
+   *Iddo Drori, Nakul Verma*
 
-   *Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig*
+3. [Preprint] **Solving Probability and Statistics Problems by Program Synthesis** [![arXiv](https://img.shields.io/badge/arXiv-2111.08267-b31b1b.svg)](https://arxiv.org/abs/2111.08267), 2021.11
+
+   *Leonard Tang, Elizabeth Ke, Nikhil Singh, Nakul Verma, Iddo Drori*
