@@ -1,5 +1,4 @@
 ## Paper collection for Langauge Models for Code
-test
 ### Encoder-Only
 
 1. [ICLR2021] **GraphCodeBERT: Pre-training Code Representations with Data Flow.** [![arXiv](https://img.shields.io/badge/arXiv-2009.08366-b31b1b.svg)](https://arxiv.org/abs/2009.08366), 2020.09
