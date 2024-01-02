@@ -36,6 +36,7 @@ Introducing our survey paper.
 
 ![foundation_models](assets/nci-timeline.png)
 
+</details>
 
 ## Paper Collections 📚
 
