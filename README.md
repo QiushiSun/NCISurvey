@@ -46,6 +46,7 @@ Introducing our survey paper.
 - [Reasoning with Code Synthesis](https://github.com/QiushiSun/NCISurvey/blob/main/Reasoning.md) 🧠
 - [Data Science](https://github.com/QiushiSun/NCISurvey/blob/main/DS.md) 🔢
 - [Corpus containing Code Data](https://github.com/QiushiSun/NCISurvey/blob/main/Code-corpus.md) 📚
+- [Code-Based Solutions for NLP Tasks](https://github.com/QiushiSun/NCISurvey/blob/main/NLPTasks-through-code.md) 📝
 
 ## Citation 📖
 
