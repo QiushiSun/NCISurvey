@@ -90,7 +90,7 @@
 
 23. [[PLDI2018]](https://dl.acm.org/doi/abs/10.1145/3192366.3192384) **Data-Driven Feedback Generation for Introductory Programming Exercises** [![arXiv](https://img.shields.io/badge/arXiv-1711.07148-b31b1b.svg)](https://arxiv.org/abs/1711.07148), 2017.11
 
-    *Ke Wang, RIshabh Singh, Zhendong Su*
+    *Ke Wang, Rishabh Singh, Zhendong Su*
 
 24. [[AAAI2017]](https://ojs.aaai.org/index.php/AAAI/article/view/10742) **DeepFix: Fixing Common C Language Errors by Deep Learning**, 2017.02
 
