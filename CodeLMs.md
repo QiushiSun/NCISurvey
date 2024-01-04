@@ -23,7 +23,7 @@
 
 2. [MAPS2022] **A Systematic Evaluation of Large Language Models of Code.** [![arXiv](https://img.shields.io/badge/arXiv-2202.13169-b31b1b.svg)](https://arxiv.org/abs/2202.13169), 2022.02
 
-   *Frank F.Xu, Uri Alon, Graham Neubig, Vincent J.Hellendoorn* 
+   *Frank F. Xu, Uri Alon, Graham Neubig, Vincent J. Hellendoorn* 
 
 
 3. [Preprint] **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2311.09278-b31b1b.svg)](https://arxiv.org/abs/2311.09278), 2023.11
