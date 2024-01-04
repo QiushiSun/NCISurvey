@@ -60,3 +60,7 @@ If you are interested in our work or find this repository helpful, please use th
   year    = {2023}
 }
 ```
+
+## Star History 🌟
+
+<!-- [![Star History Chart](https://api.star-history.com/svg?repos=QiushiSun/NCISurvey&type=Date)](https://star-history.com/#QiushiSun/NCISurvey&Date) -->
