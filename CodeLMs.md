@@ -17,8 +17,12 @@
 
 
 ### Decoder-Only
+1. [ESEC/FSE 2020] **IntelliCode Compose: Code Generation using Transformer.** [![arXiv](https://img.shields.io/badge/arXiv-2005.08025-b31b1b.svg)](https://arxiv.org/abs/2005.08025), 2020.05
 
-1. [Preprint] **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2311.09278-b31b1b.svg)](https://arxiv.org/abs/2311.09278), 2023.11
+   *Alexey Svyatkovskiy, Shao Kun Deng, Shengyu Fu, Neel Sundaresan* 
+
+
+2. [Preprint] **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2311.09278-b31b1b.svg)](https://arxiv.org/abs/2311.09278), 2023.11
 
    *Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao, Jun Liu* 
 
