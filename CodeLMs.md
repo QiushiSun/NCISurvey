@@ -17,11 +17,11 @@
 
 
 ### Decoder-Only
-1. [ESEC/FSE2020] **IntelliCode Compose: Code Generation using Transformer.** [![arXiv](https://img.shields.io/badge/arXiv-2005.08025-b31b1b.svg)](https://arxiv.org/abs/2005.08025), 2020.05
+1. [[ESEC/FSE2020]](https://2020.esec-fse.org/details/esecfse-2020-industry-papers/13/IntelliCode-Compose-Code-Generation-using-Transformer) `GPT-C` **IntelliCode Compose: Code Generation using Transformer.** [![arXiv](https://img.shields.io/badge/arXiv-2005.08025-b31b1b.svg)](https://arxiv.org/abs/2005.08025), 2020.05
 
    *Alexey Svyatkovskiy, Shao Kun Deng, Shengyu Fu, Neel Sundaresan*
 
-2. [MAPS2022] `PolyCoder` **A Systematic Evaluation of Large Language Models of Code.** [![arXiv](https://img.shields.io/badge/arXiv-2202.13169-b31b1b.svg)](https://arxiv.org/abs/2202.13169), 2022.02
+2. [[MAPS2022]](https://dl.acm.org/doi/abs/10.1145/3520312.3534862) `PolyCoder` **A Systematic Evaluation of Large Language Models of Code.** [![arXiv](https://img.shields.io/badge/arXiv-2202.13169-b31b1b.svg)](https://arxiv.org/abs/2202.13169), 2022.02
 
    *Frank F. Xu, Uri Alon, Graham Neubig, Vincent J. Hellendoorn*
    
