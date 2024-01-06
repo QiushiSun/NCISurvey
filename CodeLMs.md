@@ -37,6 +37,9 @@
 
    *Daniel Fried, Armen Aghajanyan, Jessy Lin, Sida Wang, Eric Wallace, Freda Shi, Ruiqi Zhong, Wen-tau Yih, Luke Zettlemoyer, Mike Lewis*
 
+6. [Preprint] **PanGu-Coder: Program Synthesis with Function-Level Language Modeling.** [![arXiv](https://img.shields.io/badge/arXiv-2207.11280-b31b1b.svg)](https://arxiv.org/abs/22207.11280), 2022.07
+
+   *Fenia Christopoulou, Gerasimos Lampouras, Milan Gritta, Guchun Zhang, Yinpeng Guo, Zhongqi Li, Qi Zhang, Meng Xiao, Bo Shen, Lin Li, Hao Yu, Li Yan, Pingyi Zhou, Xin Wang, Yuchi Ma, Ignacio Iacobacci, Yasheng Wang, Guangtai Liang, Jiansheng Wei, Xin Jiang, Qianxiang Wang, Qun Liu*
 
 6. [Preprint] **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2311.09278-b31b1b.svg)](https://arxiv.org/abs/2311.09278), 2023.11
 
