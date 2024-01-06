@@ -21,7 +21,7 @@
 
    *Alexey Svyatkovskiy, Shao Kun Deng, Shengyu Fu, Neel Sundaresan*
 
-2.[Preprint] `Code-davinci-002` **Evaluating Large Language Models Trained on Code.** [![arXiv](https://img.shields.io/badge/arXiv-2107.03374-b31b1b.svg)](https://arxiv.org/abs/2107.03374), 2021.7
+2. [Preprint] `Code-davinci-002` **Evaluating Large Language Models Trained on Code.** [![arXiv](https://img.shields.io/badge/arXiv-2107.03374-b31b1b.svg)](https://arxiv.org/abs/2107.03374), 2021.7
 
    *Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Ponde de Oliveira Pinto, Jared Kaplan, Harri Edwards, Yuri Burda, Nicholas Joseph, Greg Brockman, Alex Ray, Raul Puri, Gretchen Krueger, Michael Petrov, Heidy Khlaaf, Girish Sastry, Pamela Mishkin, Brooke Chan, Scott Gray, Nick Ryder, Mikhail Pavlov, Alethea Power, Lukasz Kaiser, Mohammad Bavarian, Clemens Winter, Philippe Tillet, Felipe Petroski Such, Dave Cummings, Matthias Plappert, Fotios Chantzis, Elizabeth Barnes, Ariel Herbert-Voss, William Hebgen Guss, Alex Nichol, Alex Paino, Nikolas Tezak, Jie Tang, Igor Babuschkin, Suchir Balaji, Shantanu Jain, William Saunders, Christopher Hesse, Andrew N. Carr, Jan Leike, Josh Achiam, Vedant Misra, Evan Morikawa, Alec Radford, Matthew Knight, Miles Brundage, Mira Murati, Katie Mayer, Peter Welinder, Bob McGrew, Dario Amodei, Sam McCandlish, Ilya Sutskever, Wojciech Zaremba* 
 
