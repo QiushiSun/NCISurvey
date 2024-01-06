@@ -37,15 +37,21 @@
 
    *Daniel Fried, Armen Aghajanyan, Jessy Lin, Sida Wang, Eric Wallace, Freda Shi, Ruiqi Zhong, Wen-tau Yih, Luke Zettlemoyer, Mike Lewis*
 
-6. [Preprint] **PanGu-Coder: Program Synthesis with Function-Level Language Modeling.** [![arXiv](https://img.shields.io/badge/arXiv-2207.11280-b31b1b.svg)](https://arxiv.org/abs/22207.11280), 2022.07
+6. [[IJCAI2022]](https://www.ijcai.org/proceedings/2022/329) `PyCodeGPT` **CERT: Continual Pre-Training on Sketches for Library-Oriented Code Generation** [![arXiv](https://img.shields.io/badge/arXiv-2206.06888-b31b1b.svg)](https://arxiv.org/abs/2206.06888), 2022.06
+
+   *Daoguang Zan, Bei Chen, Dejian Yang, Zeqi Lin, Minsu Kim, Bei Guan, Yongji Wang, Weizhu Chen, Jian-Guang Lou*
+
+7. [Preprint] **PanGu-Coder: Program Synthesis with Function-Level Language Modeling.** [![arXiv](https://img.shields.io/badge/arXiv-2207.11280-b31b1b.svg)](https://arxiv.org/abs/22207.11280), 2022.07
 
    *Fenia Christopoulou, Gerasimos Lampouras, Milan Gritta, Guchun Zhang, Yinpeng Guo, Zhongqi Li, Qi Zhang, Meng Xiao, Bo Shen, Lin Li, Hao Yu, Li Yan, Pingyi Zhou, Xin Wang, Yuchi Ma, Ignacio Iacobacci, Yasheng Wang, Guangtai Liang, Jiansheng Wei, Xin Jiang, Qianxiang Wang, Qun Liu*
 
-7. [Preprint] `FIM` **Efficient Training of Language Models to Fill in the Middle.** [![arXiv](https://img.shields.io/badge/arXiv-2207.14255-b31b1b.svg)](https://arxiv.org/abs/2207.14255), 2022.07
+8. [Preprint] `FIM` **Efficient Training of Language Models to Fill in the Middle.** [![arXiv](https://img.shields.io/badge/arXiv-2207.14255-b31b1b.svg)](https://arxiv.org/abs/2207.14255), 2022.07
 
    *Mohammad Bavarian, Heewoo Jun, Nikolas Tezak, John Schulman, Christine McLeavey, Jerry Tworek, Mark Chen*
+   
+   
 
-8. [Preprint] **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2311.09278-b31b1b.svg)](https://arxiv.org/abs/2311.09278), 2023.11
+9. [Preprint] **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2311.09278-b31b1b.svg)](https://arxiv.org/abs/2311.09278), 2023.11
 
    *Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao, Jun Liu* 
 
