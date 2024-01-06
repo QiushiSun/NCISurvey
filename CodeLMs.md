@@ -53,11 +53,20 @@
 
    *Loubna Ben Allal, Raymond Li, Denis Kocetkov, Chenghao Mou, Christopher Akiki, Carlos Munoz Ferrandis, Niklas Muennighoff, Mayank Mishra, Alex Gu, Manan Dey, Logesh Kumar Umapathi, Carolyn Jane Anderson, Yangtian Zi, Joel Lamy Poirier, Hailey Schoelkopf, Sergey Troshin, Dmitry Abulkhanov, Manuel Romero, Michael Lappert, Francesco De Toni, Bernardo García del Río, Qian Liu, Shamik Bose, Urvashi Bhattacharyya, Terry Yue Zhuo, Ian Yu, Paulo Villegas, Marco Zocca, Sourab Mangrulkar, David Lansky, Huu Nguyen, Danish Contractor, Luis Villa, Jia Li, Dzmitry Bahdanau, Yacine Jernite, Sean Hughes, Daniel Fried, Arjun Guha, Harm de Vries, Leandro von Werra* 
    
-10. [Preprint] **CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X.** [![arXiv](https://img.shields.io/badge/arXiv-2303.17568-b31b1b.svg)](https://arxiv.org/abs/2303.17568), 2023.03
+10. [[CoRR2023]](https://openreview.net/forum?id=NRhaCyPhQbm) **CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X.** [![arXiv](https://img.shields.io/badge/arXiv-2303.17568-b31b1b.svg)](https://arxiv.org/abs/2303.17568), 2023.03
 
-   *Qinkai Zheng, Xiao Xia, Xu Zou, Yuxiao Dong, Shan Wang, Yufei Xue, Zihan Wang, Lei Shen, Andi Wang, Yang Li, Teng Su, Zhilin Yang, Jie Tang*   
+   *Qinkai Zheng, Xiao Xia, Xu Zou, Yuxiao Dong, Shan Wang, Yufei Xue, Zihan Wang, Lei Shen, Andi Wang, Yang Li, Teng Su, Zhilin Yang, Jie Tang* 
+   
 
-11. [Preprint] **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2311.09278-b31b1b.svg)](https://arxiv.org/abs/2311.09278), 2023.11
+11. [[TMLR]](https://openreview.net/forum?id=KoFOg41haE) **StarCoder: may the source be with you!** [![arXiv](https://img.shields.io/badge/arXiv-2305.06161-b31b1b.svg)](https://arxiv.org/abs/2305.06161), 2023.05
+
+   *DRaymond Li, Loubna Ben Allal, Yangtian Zi, Niklas Muennighoff, Denis Kocetkov, Chenghao Mou, Marc Marone, Christopher Akiki, Jia Li, Jenny Chim, Qian Liu, Evgenii Zheltonozhskii, Terry Yue Zhuo, Thomas Wang, Olivier Dehaene, Mishig Davaadorj, Joel Lamy-Poirier, João Monteiro, Oleh Shliazhko, Nicolas Gontier, Nicholas Meade, Armel Zebaze, Ming-Ho Yee, Logesh Kumar Umapathi, Jian Zhu, Benjamin Lipkin, Muhtasham Oblokulov, Zhiruo Wang, Rudra Murthy, Jason Stillerman, Siva Sankalp Patel, Dmitry Abulkhanov, Marco Zocca, Manan Dey, Zhihan Zhang, Nour Fahmy, Urvashi Bhattacharyya, Wenhao Yu, Swayam Singh, Sasha Luccioni, Paulo Villegas, Maxim Kunakov, Fedor Zhdanov, Manuel Romero, Tony Lee, Nadav Timor, Jennifer Ding, Claire Schlesinger, Hailey Schoelkopf, Jan Ebert, Tri Dao, Mayank Mishra, Alex Gu, Jennifer Robinson, Carolyn Jane Anderson, Brendan Dolan-Gavitt, Danish Contractor, Siva Reddy, Daniel Fried, Dzmitry Bahdanau, Yacine Jernite, Carlos Muñoz Ferrandis, Sean Hughes, Thomas Wolf, Arjun Guha, Leandro von Werra, Harm de Vries*
+
+11. [Preprint] **WizardCoder: Empowering Code Large Language Models with Evol-Instruct.** [![arXiv](https://img.shields.io/badge/arXiv-2306.08568-b31b1b.svg)](https://arxiv.org/abs/2306.08568), 2023.6
+
+   *Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Tao, Jing Ma, Qingwei Lin, Daxin Jiang* 
+
+12. [Preprint] **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2311.09278-b31b1b.svg)](https://arxiv.org/abs/2311.09278), 2023.11
 
    *Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao, Jun Liu* 
 
