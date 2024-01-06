@@ -80,6 +80,10 @@
 
    *Baptiste Rozière, Jonas Gehring, Fabian Gloeckle, Sten Sootla, Itai Gat, Xiaoqing Ellen Tan, Yossi Adi, Jingyu Liu, Tal Remez, Jérémy Rapin, Artyom Kozhevnikov, Ivan Evtimov, Joanna Bitton, Manish Bhatt, Cristian Canton Ferrer, Aaron Grattafiori, Wenhan Xiong, Alexandre Défossez, Jade Copet, Faisal Azhar, Hugo Touvron, Louis Martin, Nicolas Usunier, Thomas Scialom, Gabriel Synnaeve* 
 
+16. [Preprint] `phi-1.5` **Textbooks Are All You Need II: phi-1.5 technical report.** [![arXiv](https://img.shields.io/badge/arXiv-2309.05463-b31b1b.svg)](https://arxiv.org/abs/2309.05463), 2023.09
+
+   *Yuanzhi Li, Sébastien Bubeck, Ronen Eldan, Allie Del Giorno, Suriya Gunasekar, Yin Tat Lee* 
+
 16. [Preprint] **MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning.** [![arXiv](https://img.shields.io/badge/arXiv-2309.05653-b31b1b.svg)](https://arxiv.org/abs/2309.05653), 2023.09
 
    *Xiang Yue, Xingwei Qu, Ge Zhang, Yao Fu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen* 
