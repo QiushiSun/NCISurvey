@@ -61,6 +61,14 @@ If you are interested in our work or find this repository helpful, please use th
 }
 ```
 
+## Acknowledgements
+
+This is an open collaborative research project among ...
+
+## Contributors
+
+<!-- ## Other Good Repos for This Topic -->
+
 ## Star History 🌟
 
 <!-- [![Star History Chart](https://api.star-history.com/svg?repos=QiushiSun/NCISurvey&type=Date)](https://star-history.com/#QiushiSun/NCISurvey&Date) -->

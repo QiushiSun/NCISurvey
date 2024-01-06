@@ -1,17 +1,28 @@
 ## Paper collection for Langauge Models for Code
 ### Encoder-Only
 
-1. [ICLR2021] **GraphCodeBERT: Pre-training Code Representations with Data Flow.** [![arXiv](https://img.shields.io/badge/arXiv-2009.08366-b31b1b.svg)](https://arxiv.org/abs/2009.08366), 2020.09
+1. [Preprint] **SynCoBERT: Syntax-Guided Multi-Modal Contrastive Pre-Training for Code Representation.** [![arXiv](https://img.shields.io/badge/arXiv-2108.04556-b31b1b.svg)](https://arxiv.org/abs/2108.04556), 2021.08
+   
+  *Xin Wang, Yasheng Wang, Fei Mi, Pingyi Zhou, Yao Wan, Xiao Liu, Li Li, Hao Wu, Jin Liu, Xin Jiang* 
+
+2. [[EMNLP2022]](https://aclanthology.org/2022.findings-emnlp.9/) `SCodeR` **Soft-Labeled Contrastive Pre-training for Function-level Code Representation.** [![arXiv](https://img.shields.io/badge/arXiv-2210.09597-b31b1b.svg)](https://arxiv.org/abs/2210.09597), 2020.10
+   
+  *Xiaonan Li, Daya Guo, Yeyun Gong, Yun Lin, Yelong Shen, Xipeng Qiu, Daxin Jiang, Weizhu Chen, Nan Duan* 
+
+3. [ICLR2021] **GraphCodeBERT: Pre-training Code Representations with Data Flow.** [![arXiv](https://img.shields.io/badge/arXiv-2009.08366-b31b1b.svg)](https://arxiv.org/abs/2009.08366), 2020.09
    
   *Daya Guo, Shuo Ren, Shuai Lu, Zhangyin Feng, Duyu Tang, Shujie Liu, Long Zhou, Nan Duan, Alexey Svyatkovskiy, Shengyu Fu, Michele Tufano, Shao Kun Deng, Colin Clement, Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, Ming Zhou* 
 
+4. [[NAACL2022]](https://aclanthology.org/2022.findings-naacl.80/) **CODE-MVP: Learning to Represent Source Code from Multiple Views with Contrastive Pre-Training.** [![arXiv](https://img.shields.io/badge/arXiv-2205.02029-b31b1b.svg)](https://arxiv.org/abs/2205.02029), 2020.05
 
-2. [EMNLP2020] **CodeBERT: A Pre-Trained Model for Programming and Natural Languages.** [![arXiv](https://img.shields.io/badge/arXiv-2002.08155-b31b1b.svg)](https://arxiv.org/abs/2002.08155), 2020.02
+  *Xin Wang, Yasheng Wang, Yao Wan, Jiawei Wang, Pingyi Zhou, Li Li, Hao Wu, Jin Liu* 
+
+5. [EMNLP2020] **CodeBERT: A Pre-Trained Model for Programming and Natural Languages.** [![arXiv](https://img.shields.io/badge/arXiv-2002.08155-b31b1b.svg)](https://arxiv.org/abs/2002.08155), 2020.02
    
   *Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou* 
 
 
-3. [ICML2020] **Learning and Evaluating Contextual Embedding of Source Code.** [![arXiv](https://img.shields.io/badge/arXiv-2001.00059-b31b1b.svg)](https://arxiv.org/abs/2001.00059), 2019.12
+6. [ICML2020] **Learning and Evaluating Contextual Embedding of Source Code.** [![arXiv](https://img.shields.io/badge/arXiv-2001.00059-b31b1b.svg)](https://arxiv.org/abs/2001.00059), 2019.12
    
   *Aditya Kanade, Petros Maniatis, Gogul Balakrishnan, Kensen Shi* 
 
