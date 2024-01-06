@@ -65,11 +65,15 @@
 11. [Preprint] **WizardCoder: Empowering Code Large Language Models with Evol-Instruct.** [![arXiv](https://img.shields.io/badge/arXiv-2306.08568-b31b1b.svg)](https://arxiv.org/abs/2306.08568), 2023.6
   *Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Tao, Jing Ma, Qingwei Lin, Daxin Jiang* 
 
-13. [Preprint] **PanGu-Coder2: Boosting Large Language Models for Code with Ranking Feedback.** [![arXiv](https://img.shields.io/badge/arXiv-2307.14936-b31b1b.svg)](https://arxiv.org/abs/2307.14936), 2023.7
+12. [Preprint] **PanGu-Coder2: Boosting Large Language Models for Code with Ranking Feedback.** [![arXiv](https://img.shields.io/badge/arXiv-2307.14936-b31b1b.svg)](https://arxiv.org/abs/2307.14936), 2023.07
 
    *Bo Shen, Jiaxin Zhang, Taihong Chen, Daoguang Zan, Bing Geng, An Fu, Muhan Zeng, Ailun Yu, Jichuan Ji, Jingyang Zhao, Yuenan Guo, Qianxiang Wang* 
 
-12. [Preprint] **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2311.09278-b31b1b.svg)](https://arxiv.org/abs/2311.09278), 2023.11
+13. [Preprint] **Code Llama: Open Foundation Models for Code.** [![arXiv](https://img.shields.io/badge/arXiv-2308.12950-b31b1b.svg)](https://arxiv.org/abs/2308.12950), 2023.08
+
+   *Baptiste Rozière, Jonas Gehring, Fabian Gloeckle, Sten Sootla, Itai Gat, Xiaoqing Ellen Tan, Yossi Adi, Jingyu Liu, Tal Remez, Jérémy Rapin, Artyom Kozhevnikov, Ivan Evtimov, Joanna Bitton, Manish Bhatt, Cristian Canton Ferrer, Aaron Grattafiori, Wenhan Xiong, Alexandre Défossez, Jade Copet, Faisal Azhar, Hugo Touvron, Louis Martin, Nicolas Usunier, Thomas Scialom, Gabriel Synnaeve* 
+
+14. [Preprint] **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2311.09278-b31b1b.svg)](https://arxiv.org/abs/2311.09278), 2023.11
 
    *Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao, Jun Liu* 
 
