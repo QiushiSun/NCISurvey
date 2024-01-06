@@ -69,7 +69,12 @@
 
    *Bo Shen, Jiaxin Zhang, Taihong Chen, Daoguang Zan, Bing Geng, An Fu, Muhan Zeng, Ailun Yu, Jichuan Ji, Jingyang Zhao, Yuenan Guo, Qianxiang Wang* 
 
-13. [Preprint] **Code Llama: Open Foundation Models for Code.** [![arXiv](https://img.shields.io/badge/arXiv-2308.12950-b31b1b.svg)](https://arxiv.org/abs/2308.12950), 2023.08
+
+13. [Preprint] `OctoCoder` **OctoPack: Instruction Tuning Code Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2308.07124-b31b1b.svg)](https://arxiv.org/abs/2308.07124), 2023.08
+
+   *Niklas Muennighoff, Qian Liu, Armel Zebaze, Qinkai Zheng, Binyuan Hui, Terry Yue Zhuo, Swayam Singh, Xiangru Tang, Leandro von Werra, Shayne Longpre*    
+
+14. [Preprint] **Code Llama: Open Foundation Models for Code.** [![arXiv](https://img.shields.io/badge/arXiv-2308.12950-b31b1b.svg)](https://arxiv.org/abs/2308.12950), 2023.08
 
    *Baptiste Rozière, Jonas Gehring, Fabian Gloeckle, Sten Sootla, Itai Gat, Xiaoqing Ellen Tan, Yossi Adi, Jingyu Liu, Tal Remez, Jérémy Rapin, Artyom Kozhevnikov, Ivan Evtimov, Joanna Bitton, Manish Bhatt, Cristian Canton Ferrer, Aaron Grattafiori, Wenhan Xiong, Alexandre Défossez, Jade Copet, Faisal Azhar, Hugo Touvron, Louis Martin, Nicolas Usunier, Thomas Scialom, Gabriel Synnaeve* 
 
