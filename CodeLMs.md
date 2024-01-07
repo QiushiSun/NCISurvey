@@ -127,19 +127,31 @@
 
    *Yekun Chai, Shuohuan Wang, Chao Pang, Yu Sun, Hao Tian, Hua Wu* 
 
-3. [ACL2022] **UniXcoder: Unified Cross-Modal Pre-training for Code Representation.** [![arXiv](https://img.shields.io/badge/arXiv-2203.03850-b31b1b.svg)](https://arxiv.org/abs/2203.03850), 2022.03
+3. [[NeurIPS2022]](https://openreview.net/forum?id=WaGvb7OzySA) **CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning.** [![arXiv](https://img.shields.io/badge/arXiv-2207.01780-b31b1b.svg)](https://arxiv.org/abs/2207.01780), 2022.07
+
+   Hung Le, Yue Wang, Akhilesh Deepak Gotmare, Silvio Savarese, Steven C.H. Hoi
+
+4. [[ESEC/FSE]](https://dl.acm.org/doi/abs/10.1145/3540250.3549162) **NatGen: Generative pre-training by "Naturalizing" source code.** [![arXiv](https://img.shields.io/badge/arXiv-2206.07585-b31b1b.svg)](https://arxiv.org/abs/2206.07585), 2022.06
+
+   *Saikat Chakraborty, Toufique Ahmed, Yangruibo Ding, Premkumar Devanbu, Baishakhi Ray* 
+
+5. [ACL2022] **UniXcoder: Unified Cross-Modal Pre-training for Code Representation.** [![arXiv](https://img.shields.io/badge/arXiv-2203.03850-b31b1b.svg)](https://arxiv.org/abs/2203.03850), 2022.03
 
    *Daya Guo, Shuai Lu, Nan Duan, Yanlin Wang, Ming Zhou, Jian Yin* 
 
-4. [Science] **Competition-Level Code Generation with AlphaCode.** [![arXiv](https://img.shields.io/badge/arXiv-2203.07814-b31b1b.svg)](https://arxiv.org/abs/2203.07814), 2022.02
+6. [Science] **Competition-Level Code Generation with AlphaCode.** [![arXiv](https://img.shields.io/badge/arXiv-2203.07814-b31b1b.svg)](https://arxiv.org/abs/2203.07814), 2022.02
 
    *Yujia Li, David Choi, Junyoung Chung, Nate Kushman, Julian Schrittwieser, Rémi Leblond, Tom Eccles, James Keeling, Felix Gimeno, Agustin Dal Lago, Thomas Hubert, Peter Choy, Cyprien de Masson d'Autume, Igor Babuschkin, Xinyun Chen, Po-Sen Huang, Johannes Welbl, Sven Gowal, Alexey Cherepanov, James Molloy, Daniel J. Mankowitz, Esme Sutherland Robson, Pushmeet Kohli, Nando de Freitas, Koray Kavukcuoglu, Oriol Vinyals*
 
-5. [EMNLP2021] **CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation.** [![arXiv](https://img.shields.io/badge/arXiv-2109.00859-b31b1b.svg)](https://arxiv.org/abs/2109.00859), 2021.09
+7. [[ICSE2022]](https://dl.acm.org/doi/abs/10.1145/3510003.3510096) **SPT-Code: Sequence-to-Sequence Pre-Training for Learning Source Code Representations.** [![arXiv](https://img.shields.io/badge/arXiv-2201.01549-b31b1b.svg)](https://arxiv.org/abs/2201.01549), 2021.01
+
+   *Changan Niu, Chuanyi Li, Vincent Ng, Jidong Ge, Liguo Huang, Bin Luo* 
+
+8. [EMNLP2021] **CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation.** [![arXiv](https://img.shields.io/badge/arXiv-2109.00859-b31b1b.svg)](https://arxiv.org/abs/2109.00859), 2021.09
 
    *Yue Wang, Weishi Wang, Shafiq Joty, Steven C.H. Hoi* 
 
-6. [NAACL2021] **Unified Pre-training for Program Understanding and Generation.** [![arXiv](https://img.shields.io/badge/arXiv-2103.06333-b31b1b.svg)](https://arxiv.org/abs/2103.06333), 2021.03
+9.  [NAACL2021] **Unified Pre-training for Program Understanding and Generation.** [![arXiv](https://img.shields.io/badge/arXiv-2103.06333-b31b1b.svg)](https://arxiv.org/abs/2103.06333), 2021.03
 
    *Wasi Uddin Ahmad, Saikat Chakraborty, Baishakhi Ray, Kai-Wei Chang* 
 
