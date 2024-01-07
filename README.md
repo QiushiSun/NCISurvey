@@ -47,6 +47,7 @@ Introducing our survey paper.
 - [Data Science](https://github.com/QiushiSun/NCISurvey/blob/main/DS.md) 🔢
 - [Corpus containing Code Data](https://github.com/QiushiSun/NCISurvey/blob/main/Code-corpus.md) 📚
 - [Code-Based Solutions for NLP Tasks](https://github.com/QiushiSun/NCISurvey/blob/main/NLPTasks-through-code.md) 📝
+- [Code Empowered Agents](https://github.com/QiushiSun/NCISurvey/blob/main/CodeLM-empowered-agents.md) 🤖
 
 ## Citation 📖
 
