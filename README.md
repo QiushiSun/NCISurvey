@@ -23,6 +23,7 @@ Last update on 2023/12/25, Merry Christmas🍎🎄
 [Zhirui Chen](https://github.com/jet1004),
 [Fangzhi Xu](https://xufangzhi.github.io/),
 [Zhangyue Yin](https://scholar.google.com/citations?user=9gRQqSkAAAAJ&hl=en),
+[Shuai Yuan](https://github.com/Luciferder),
 [Chengcheng Han](https://hccngu.github.io/),
 [Jianing Wang](https://wjn1996.github.io/), and
 more authors to be announced
