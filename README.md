@@ -1,5 +1,5 @@
 ## Paradigm, Model and Application: A Systematic Survey of Neural Code Intelligence
-This is the repository of survey poapaer: **Paradigm, Model and Application: A Systematic Survey of Neural Code Intelligence**.
+This is the repository of survey paper: **Paradigm, Model and Application: A Systematic Survey of Neural Code Intelligence**.
 
  [[Paper](https://qiushisun.github.io/)]
  
@@ -49,6 +49,7 @@ Introducing our survey paper.
 - [Corpus containing Code Data](https://github.com/QiushiSun/NCISurvey/blob/main/Code-corpus.md) 📚
 - [Code-Based Solutions for NLP Tasks](https://github.com/QiushiSun/NCISurvey/blob/main/NLPTasks-through-code.md) 📝
 - [Code Empowered Agents](https://github.com/QiushiSun/NCISurvey/blob/main/CodeLM-empowered-agents.md) 🤖
+- [Reinforcement Learning with CodeLMs](https://github.com/QiushiSun/NCISurvey/blob/main/RL-with-CodeLMs.md) 🎮
 
 ## Citation 📖
 
