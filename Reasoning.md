@@ -20,25 +20,25 @@
    *Jiazhan Feng, Ruochen Xu, Junheng Hao, Hiteshi Sharma, Yelong Shen, Dongyan Zhao, Weizhu Chen*
 
 
-3. [ICLR 2024 Under Review] **Lemur: Harmonizing Natural Language and Code for Language Agents** [![arXiv](https://img.shields.io/badge/arXiv-2310.06830-b31b1b.svg)](https://arxiv.org/abs/2310.06830), 2023.10
+3. [ICLR 2024] **Lemur: Harmonizing Natural Language and Code for Language Agents** [![arXiv](https://img.shields.io/badge/arXiv-2310.06830-b31b1b.svg)](https://arxiv.org/abs/2310.06830), 2023.10
 
    *Yiheng Xu, Hongjin Su, Chen Xing, Boyu Mi, Qian Liu, Weijia Shi, Binyuan Hui, Fan Zhou, Yitao Liu, Tianbao Xie, Zhoujun Cheng, Siheng Zhao, Lingpeng Kong, Bailin Wang, Caiming Xiong, Tao Yu*
 
 
-3. [ICLR 2024 Under Review] **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving** [![arXiv](https://img.shields.io/badge/arXiv-2309.17452-b31b1b.svg)](https://arxiv.org/abs/2309.17452), 2023.09
+4. [ICLR 2024] **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving** [![arXiv](https://img.shields.io/badge/arXiv-2309.17452-b31b1b.svg)](https://arxiv.org/abs/2309.17452), 2023.09
 
    *Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen*
 
 
-2. [ICLR 2024 Under Review] **MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning** [![arXiv](https://img.shields.io/badge/arXiv-2309.05653-b31b1b.svg)](https://arxiv.org/abs/2309.05653), 2023.09
+5. [ICLR 2024] **MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning** [![arXiv](https://img.shields.io/badge/arXiv-2309.05653-b31b1b.svg)](https://arxiv.org/abs/2309.05653), 2023.09
 
    *Xiang Yue, Xingwei Qu, Ge Zhang, Yao Fu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen*
 
-3. [AAAI2024] **When Do Program-of-Thoughts Work for Reasoning?** [![arXiv](https://img.shields.io/badge/arXiv-2308.15452-b31b1b.svg)](https://arxiv.org/abs/2308.15452), 2023.08
+6. [AAAI2024] **When Do Program-of-Thoughts Work for Reasoning?** [![arXiv](https://img.shields.io/badge/arXiv-2308.15452-b31b1b.svg)](https://arxiv.org/abs/2308.15452), 2023.08
 
    *Zhen Bi, Ningyu Zhang, Yinuo Jiang, Shumin Deng, Guozhou Zheng, Huajun Chen*
 
-3. [Preprint] **Code Prompting: a Neural Symbolic Method for Complex Reasoning in Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2305.18507-b31b1b.svg)](https://arxiv.org/abs/2305.18507), 2023.05
+7. [Preprint] **Code Prompting: a Neural Symbolic Method for Complex Reasoning in Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2305.18507-b31b1b.svg)](https://arxiv.org/abs/2305.18507), 2023.05
 
    *Yi Hu, Haotong Yang, Zhouchen Lin, Muhan Zhang*
 
