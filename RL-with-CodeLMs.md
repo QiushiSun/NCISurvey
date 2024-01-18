@@ -11,6 +11,11 @@
    *John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao* 
 
 
+2. [Preprint] **Coarse-Tuning Models of Code with Reinforcement Learning Feedback** [![arXiv](https://img.shields.io/badge/arXiv-2305.18341-b31b1b.svg)](https://arxiv.org/abs/2305.18341), 2023.05
+
+   *Abhinav Jain, Chima Adiole, Swarat Chaudhuri, Thomas Reps, Chris Jermaine* 
+
+
 2. [[TMLR]](https://openreview.net/forum?id=0XBuaxqEcG) `PPOCoder` **Execution-based Code Generation using Deep Reinforcement Learning.** [![arXiv](https://img.shields.io/badge/arXiv-2301.13816-b31b1b.svg)](https://arxiv.org/abs/2301.13816), 2023.01
 
    *Parshin Shojaee, Aneesh Jain, Sindhu Tipirneni, Chandan K. Reddy* 
