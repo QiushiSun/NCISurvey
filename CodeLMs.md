@@ -1,4 +1,7 @@
 ## Paper collection for Langauge Models for Code
+
+![codelms](assets/codelms-tree.png)
+
 ### Encoder-Only
 
 1. [Preprint] **SynCoBERT: Syntax-Guided Multi-Modal Contrastive Pre-Training for Code Representation.** [![arXiv](https://img.shields.io/badge/arXiv-2108.04556-b31b1b.svg)](https://arxiv.org/abs/2108.04556), 2021.08

@@ -13,7 +13,9 @@ This is the repository of survey paper: **Paradigm, Model and Application: A Sys
 *Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing here.*
 
 ## News 📰
-Last update on 2023/12/25, Merry Christmas🍎🎄
+- Update on 2024/01/19: Add multiple reading lists 📖
+- Update on 2023/12/29: Add Development Timelines 📅
+- Update on 2023/12/25: Add Contents, Merry Christmas 🍎🎄
 
 ## Introduction 📜
 
@@ -35,7 +37,7 @@ Introducing our survey paper.
 <details open>
 <summary>The Development of Code Intelligence</summary>
 
-![foundation_models](assets/nci-timeline.png)
+![milestones](assets/nci-timeline.png)
 
 </details>
 
