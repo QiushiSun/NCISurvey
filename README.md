@@ -41,7 +41,7 @@ Introducing our survey paper.
 
 </details>
 
-## Paper Collections 📚
+## Paper Collections / Tutorials 📚
 
 - [Language Models for Code](https://github.com/QiushiSun/NCISurvey/blob/main/CodeLMs.md) 🤖
 - [Evaluations and Benchmarks](https://github.com/QiushiSun/NCISurvey/blob/main/Benchmarks.md) 📊 
@@ -52,6 +52,13 @@ Introducing our survey paper.
 - [Code-Based Solutions for NLP Tasks](https://github.com/QiushiSun/NCISurvey/blob/main/NLPTasks-through-code.md) 📝
 - [Code Empowered Agents](https://github.com/QiushiSun/NCISurvey/blob/main/CodeLM-empowered-agents.md) 🤖
 - [Reinforcement Learning with CodeLMs](https://github.com/QiushiSun/NCISurvey/blob/main/RL-with-CodeLMs.md) 🎮
+- <details open>
+  <summary> Awesome Slides and Talks</summary>
+
+  * CodeLMs Lecture from HKU [DATA8055](https://taoyds.github.io/courses/data8005) [[Slides]](https://drive.google.com/file/d/1ecR3Awv6wS2ZzkU2zJ4uC8JRCZRhQ1Pc/view?usp=sharing)
+  * Ansong Ni's Talk on Foundation Models for Code and Math [[Twitter]](https://twitter.com/AnsongNi/status/1742686969166225499) [[Slides]](https://drive.google.com/file/d/1yBWCpfBmcTfQ_4Ys1u3g0NOjU3DedZ21/view?usp=sharing)
+
+</details>
 
 ## Citation 📖
 
