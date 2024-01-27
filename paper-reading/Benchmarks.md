@@ -50,7 +50,10 @@
 
 11. [Preprint] `HumanEval-X` **CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X.** [![arXiv](https://img.shields.io/badge/arXiv-2303.17568-b31b1b.svg)](https://arxiv.org/abs/2303.17568), 2023.03
 
-   *Qinkai Zheng, Xiao Xia, Xu Zou, Yuxiao Dong, Shan Wang, Yufei Xue, Zihan Wang, Lei Shen, Andi Wang, Yang Li, Teng Su, Zhilin Yang, Jie Tang* 
+   *Qinkai Zheng, Xiao Xia, Xu Zou, Yuxiao Dong, Shan Wang, Yufei Xue, Zihan Wang, Lei Shen, Andi Wang, Yang Li, Teng Su, Zhilin Yang, Jie Tang*
+12. [Preprint] **xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval.** [![arXiv](https://img.shields.io/badge/arXiv-2303.03004-b31b1b.svg)](https://arxiv.org/abs/2303.03004), 2023.03
+
+   *Mohammad Abdullah Matin Khan, M Saiful Bari, Xuan Long Do, Weishi Wang, Md Rizwan Parvez, Shafiq Joty* 
 
 11. [[EMNLP (Findings)2023]](https://aclanthology.org/2023.findings-emnlp.89/) `ODEX` **Execution-Based Evaluation for Open-Domain Code Generation.** [![arXiv](https://img.shields.io/badge/arXiv-2212.10481-b31b1b.svg)](https://arxiv.org/abs/2212.10481), 2022.12
 
