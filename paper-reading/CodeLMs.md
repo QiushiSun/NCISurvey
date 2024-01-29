@@ -1,6 +1,6 @@
 ## Paper collection for Langauge Models for Code
 
-![codelms](assets/codelms-tree.png)
+![codelms](../assets/codelms-tree.png)
 
 ### Encoder-Only
 
@@ -32,11 +32,15 @@
 
 ### Decoder-Only
 
+1. [Preprint] **DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence.** [![arXiv](https://img.shields.io/badge/arXiv-2401.14196-b31b1b.svg)](https://arxiv.org/abs/2401.14196), 2024.01
+
+   *Daya Guo, Qihao Zhu, Dejian Yang, Zhenda Xie, Kai Dong, Wentao Zhang, Guanting Chen, Xiao Bi, Y. Wu, Y.K. Li, Fuli Luo, Yingfei Xiong, Wenfeng Liang*
+
 1. [Preprint] **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2311.09278-b31b1b.svg)](https://arxiv.org/abs/2311.09278), 2023.11
 
    *Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao, Jun Liu*
    
-2. [Preprint] **Lemur: Harmonizing Natural Language and Code for Language Agents.** [![arXiv](https://img.shields.io/badge/arXiv-2309.17452-b31b1b.svg)](https://arxiv.org/abs/2309.17452), 2023.10
+2. [ICLR2024] **Lemur: Harmonizing Natural Language and Code for Language Agents.** [![arXiv](https://img.shields.io/badge/arXiv-2309.17452-b31b1b.svg)](https://arxiv.org/abs/2309.17452), 2023.10
 
    *Yiheng Xu, Hongjin Su, Chen Xing, Boyu Mi, Qian Liu, Weijia Shi, Binyuan Hui, Fan Zhou, Yitao Liu, Tianbao Xie, Zhoujun Cheng, Siheng Zhao, Lingpeng Kong, Bailin Wang, Caiming Xiong, Tao Yu*
 
@@ -73,7 +77,7 @@
 
    *DRaymond Li, Loubna Ben Allal, Yangtian Zi, Niklas Muennighoff, Denis Kocetkov, Chenghao Mou, Marc Marone, Christopher Akiki, Jia Li, Jenny Chim, Qian Liu, Evgenii Zheltonozhskii, Terry Yue Zhuo, Thomas Wang, Olivier Dehaene, Mishig Davaadorj, Joel Lamy-Poirier, João Monteiro, Oleh Shliazhko, Nicolas Gontier, Nicholas Meade, Armel Zebaze, Ming-Ho Yee, Logesh Kumar Umapathi, Jian Zhu, Benjamin Lipkin, Muhtasham Oblokulov, Zhiruo Wang, Rudra Murthy, Jason Stillerman, Siva Sankalp Patel, Dmitry Abulkhanov, Marco Zocca, Manan Dey, Zhihan Zhang, Nour Fahmy, Urvashi Bhattacharyya, Wenhao Yu, Swayam Singh, Sasha Luccioni, Paulo Villegas, Maxim Kunakov, Fedor Zhdanov, Manuel Romero, Tony Lee, Nadav Timor, Jennifer Ding, Claire Schlesinger, Hailey Schoelkopf, Jan Ebert, Tri Dao, Mayank Mishra, Alex Gu, Jennifer Robinson, Carolyn Jane Anderson, Brendan Dolan-Gavitt, Danish Contractor, Siva Reddy, Daniel Fried, Dzmitry Bahdanau, Yacine Jernite, Carlos Muñoz Ferrandis, Sean Hughes, Thomas Wolf, Arjun Guha, Leandro von Werra, Harm de Vries*
 
-12. [[CoRR2023]](https://openreview.net/forum?id=NRhaCyPhQbm) **CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X.** [![arXiv](https://img.shields.io/badge/arXiv-2303.17568-b31b1b.svg)](https://arxiv.org/abs/2303.17568), 2023.03
+12. [[Preprint]](https://openreview.net/forum?id=NRhaCyPhQbm) **CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X.** [![arXiv](https://img.shields.io/badge/arXiv-2303.17568-b31b1b.svg)](https://arxiv.org/abs/2303.17568), 2023.03
 
    *Qinkai Zheng, Xiao Xia, Xu Zou, Yuxiao Dong, Shan Wang, Yufei Xue, Zihan Wang, Lei Shen, Andi Wang, Yang Li, Teng Su, Zhilin Yang, Jie Tang* 
 
