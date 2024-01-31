@@ -1,4 +1,4 @@
-## Paper collection for Utilizing CodeLMs for Traditional NLP Tasks
+## Paper Collection for Utilizing CodeLMs for Traditional NLP Tasks
 
 
 ### Information Extraction

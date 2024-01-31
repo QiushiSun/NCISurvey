@@ -1,4 +1,4 @@
-## Paper collection for Code-related Evaluation and Benchmarks
+## Paper Collection for Code-related Evaluation and Benchmarks
 
 1. [Preprint] **DebugBench: Evaluating Debugging Capability of Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2401.04621-b31b1b.svg)](https://arxiv.org/abs/2401.04621), 2024.01
 

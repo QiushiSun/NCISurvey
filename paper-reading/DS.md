@@ -1,4 +1,4 @@
-## Paper collection for Data Science Problems
+## Paper Collection for Data Science Problems
 
 1. [[ACL2023]](https://aclanthology.org/2023.acl-long.9/) **Natural Language to Code Generation in Interactive Data Science Notebooks.** [![arXiv](https://img.shields.io/badge/arXiv-2211.11501-b31b1b.svg)](https://arxiv.org/abs/2212.09248), 2022.12
    

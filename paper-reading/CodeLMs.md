@@ -1,4 +1,4 @@
-## Paper collection for Langauge Models for Code
+## Paper Collection for Langauge Models for Code
 
 ![codelms](../assets/codelms-tree.png)
 
@@ -39,6 +39,10 @@
 1. [Preprint] **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2311.09278-b31b1b.svg)](https://arxiv.org/abs/2311.09278), 2023.11
 
    *Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao, Jun Liu*
+
+1. [ICLR2024] **Llemma: An Open Language Model For Mathematics.** [![arXiv](https://img.shields.io/badge/arXiv-2310.10631-b31b1b.svg)](https://arxiv.org/abs/2310.10631), 2023.10
+
+   *Zhangir Azerbayev, Hailey Schoelkopf, Keiran Paster, Marco Dos Santos, Stephen McAleer, Albert Q. Jiang, Jia Deng, Stella Biderman, Sean Welleck*
    
 2. [ICLR2024] **Lemur: Harmonizing Natural Language and Code for Language Agents.** [![arXiv](https://img.shields.io/badge/arXiv-2309.17452-b31b1b.svg)](https://arxiv.org/abs/2309.17452), 2023.10
 
