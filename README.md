@@ -25,9 +25,13 @@ This is the repository of survey paper: **Paradigm, Model and Application: A Sys
 [Zhirui Chen](https://github.com/jet1004),
 [Fangzhi Xu](https://xufangzhi.github.io/),
 [Zhangyue Yin](https://scholar.google.com/citations?user=9gRQqSkAAAAJ&hl=en),
+[Chang Ma](https://chang-github-00.github.io/-changma/),
 [Shuai Yuan](https://github.com/Luciferder),
+[Kanzhi Cheng](https://scholar.google.com/citations?user=S2IPVnwAAAAJ&hl=zh-CN),
+[Jianing Wang](https://wjn1996.github.io/),
 [Chengcheng Han](https://hccngu.github.io/),
-[Jianing Wang](https://wjn1996.github.io/), and
+[Renyu Zhu](https://scholar.google.com/citations?user=tSWULnAAAAAJ&hl=en), 
+[Xiang Li](https://lixiang3776.github.io/), and
 more authors to be announced
 
 Introducing our survey paper.
