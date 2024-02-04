@@ -56,22 +56,26 @@
 
     *Wenlong Huang, Chen Wang, Ruohan Zhang, Yunzhu Li, Jiajun Wu, Li Fei-Fei*
 
-15. [ICLR 2024] **Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control** [![arXiv](https://img.shields.io/badge/arXiv-2306.07863-b31b1b.svg)](https://arxiv.org/abs/2306.07863), 2023.06
+15. [Preprint] **Language to Rewards for Robotic Skill Synthesis** [![arXiv](https://img.shields.io/badge/arXiv-2306.08647-b31b1b.svg)](https://arxiv.org/abs/2306.08647), 2023.06
+
+    *Wenhao Yu, Nimrod Gileadi, Chuyuan Fu, Sean Kirmani, Kuang-Huei Lee, Montse Gonzalez Arenas, Hao-Tien Lewis Chiang, Tom Erez, Leonard Hasenclever, Jan Humplik, Brian Ichter, Ted Xiao, Peng Xu, Andy Zeng, Tingnan Zhang, Nicolas Heess, Dorsa Sadigh, Jie Tan, Yuval Tassa, Fei Xia*
+
+16. [ICLR 2024] **Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control** [![arXiv](https://img.shields.io/badge/arXiv-2306.07863-b31b1b.svg)](https://arxiv.org/abs/2306.07863), 2023.06
 
     *Longtao Zheng, Rundong Wang, Xinrun Wang, Bo An*
 
-16. [Preprint] **Voyager: An Open-Ended Embodied Agent with Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2305.16291-b31b1b.svg)](https://arxiv.org/abs/2305.16291), 2023.05
+17. [Preprint] **Voyager: An Open-Ended Embodied Agent with Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2305.16291-b31b1b.svg)](https://arxiv.org/abs/2305.16291), 2023.05
 
     *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar*
 
-17. [Preprint] **Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model** [![arXiv](https://img.shields.io/badge/arXiv-2305.11176-b31b1b.svg)](https://arxiv.org/abs/2305.11176), 2023.05
+18. [Preprint] **Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model** [![arXiv](https://img.shields.io/badge/arXiv-2305.11176-b31b1b.svg)](https://arxiv.org/abs/2305.11176), 2023.05
 
     *Siyuan Huang, Zhengkai Jiang, Hao Dong, Yu Qiao, Peng Gao, Hongsheng Li*
 
-18. [ICRA 2023] **PROGPROMPT: Generating Situated Robot Task Plans using Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2209.11302-b31b1b.svg)](https://arxiv.org/pdf/2209.11302), 2022.09
+19. [ICRA 2023] **PROGPROMPT: Generating Situated Robot Task Plans using Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2209.11302-b31b1b.svg)](https://arxiv.org/pdf/2209.11302), 2022.09
 
     *Ishika Singh, Valts Blukis, Arsalan Mousavian, Ankit Goyal, Danfei Xu, Jonathan Tremblay, Dieter Fox, Jesse Thomason, Animesh Gargg*
 
-19. [ICRA 2023] **Code as policies: Language model programs for embodied control** [![arXiv](https://img.shields.io/badge/arXiv-2209.07753-b31b1b.svg)](https://arxiv.org/pdf/2209.07753), 2022.09
+20. [ICRA 2023] **Code as policies: Language model programs for embodied control** [![arXiv](https://img.shields.io/badge/arXiv-2209.07753-b31b1b.svg)](https://arxiv.org/pdf/2209.07753), 2022.09
 
     *Jacky Liang, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Brian Ichter, Pete Florence, Andy Zeng*
