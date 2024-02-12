@@ -76,7 +76,16 @@ If you are interested in our work or find this repository helpful, please use th
 
 This is an open collaborative research project among ...
 
-## Contributors
+## Repository Contributors
+
+<a href="qiushisun.github.io"><img src="https://avatars.githubusercontent.com/QiushiSun"  width="50" /></a>
+<a href="https://github.com/jet1004"><img src="https://avatars.githubusercontent.com/jet1004"  width="50" /></a>
+<a href="https://xufangzhi.github.io/"><img src="https://avatars.githubusercontent.com/xufangzhi"  width="50" /></a>
+<a href="https://github.com/Luciferder"><img src="https://avatars.githubusercontent.com/Luciferder"  width="50" /></a>
+<a href="https://scholar.google.com/citations?user=9gRQqSkAAAAJ&hl=en"><img src="https://avatars.githubusercontent.com/yinzhangyue"  width="50" /></a>
+<a href="https://scholar.google.com/citations?user=S2IPVnwAAAAJ&hl=zh-CN"><img src="https://avatars.githubusercontent.com/njucckevin"  width="50" /></a>
+<a href="https://chang-github-00.github.io/-changma/"><img src="https://avatars.githubusercontent.com/chang-github-00"  width="50" /></a>
+<a href="https://hccngu.github.io/"><img src="https://avatars.githubusercontent.com/hccngu"  width="50" /></a>
 
 <!-- ## Other Good Repos for This Topic -->
 
