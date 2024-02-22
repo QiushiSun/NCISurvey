@@ -195,70 +195,88 @@
 
     *Shuai Lu, Daya Guo, Shuo Ren, Junjie Huang, Alexey Svyatkovskiy, Ambrosio Blanco, Colin Clement, Dawn Drain, Daxin Jiang, Duyu Tang, Ge Li, Lidong Zhou, Linjun Shou, Long Zhou, Michele Tufano, Ming Gong, Ming Zhou, Nan Duan, Neel Sundaresan, Shao Kun Deng, Shengyu Fu, Shujie Liu*
 
-48. [[ASE2019]](https://ieeexplore.ieee.org/abstract/document/8952189) `CLCDSA ` **CLCDSA: Cross Language Code Clone Detection using Syntactical Features and API Documentation.** 2019.11
+48. [[ICLR2020]](https://openreview.net/forum?id=B1lnbRNtwr) `GREAT ` **Global Relational Models of Source Code .** 2019.12
+
+    *Vincent J. Hellendoorn, Charles Sutton, Rishabh Singh, Petros Maniatis, David Bieber*
+    
+50. [[ASE2019]](https://ieeexplore.ieee.org/abstract/document/8952189) `CLCDSA ` **CLCDSA: Cross Language Code Clone Detection using Syntactical Features and API Documentation.** 2019.11
 
     *Kawser Wazed Nafi, Tonny Shekha Kar, Banani Roy, Chanchal K. Roy, Kevin A. Schneider* 
 
-49. [[EMNLP-IJCNLP2019]](https://aclanthology.org/D19-1546/) `JuICe` **JuICe: A Large Scale Distantly Supervised Dataset for Open Domain Context-based Code Generation.** [![arXiv](https://img.shields.io/badge/arXiv-1910.02216-b31b1b.svg)](https://arxiv.org/abs/1910.02216), 2019.10
+51. [[EMNLP-IJCNLP2019]](https://aclanthology.org/D19-1546/) `JuICe` **JuICe: A Large Scale Distantly Supervised Dataset for Open Domain Context-based Code Generation.** [![arXiv](https://img.shields.io/badge/arXiv-1910.02216-b31b1b.svg)](https://arxiv.org/abs/1910.02216), 2019.10
 
     *Rajas Agashe, Srinivasan Iyer, Luke Zettlemoyer* 
 
-50. [Preprint] `CodeSearchNet` **CodeSearchNet Challenge: Evaluating the State of Semantic Code Search.** [![arXiv](https://img.shields.io/badge/arXiv-1909.09436-b31b1b.svg)](https://arxiv.org/abs/1909.09436), 2019.09
+52. [Preprint] `CodeSearchNet` **CodeSearchNet Challenge: Evaluating the State of Semantic Code Search.** [![arXiv](https://img.shields.io/badge/arXiv-1909.09436-b31b1b.svg)](https://arxiv.org/abs/1909.09436), 2019.09
 
     *Hamel Husain, Ho-Hsiang Wu, Tiferet Gazit, Miltiadis Allamanis, Marc Brockschmidt* 
 
-51. [[NeurIPS2019]](https://proceedings.neurips.cc/paper_files/paper/2019/hash/49265d2447bc3bbfe9e76306ce40a31f-Abstract.html) `Devign` **Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks.** [![arXiv](https://img.shields.io/badge/arXiv-1909.03496-b31b1b.svg)](https://arxiv.org/abs/1909.03496), 2019.09
+53. [[NeurIPS2019]](https://proceedings.neurips.cc/paper_files/paper/2019/hash/49265d2447bc3bbfe9e76306ce40a31f-Abstract.html) `Devign` **Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks.** [![arXiv](https://img.shields.io/badge/arXiv-1909.03496-b31b1b.svg)](https://arxiv.org/abs/1909.03496), 2019.09
 
     *Yaqin Zhou, Shangqing Liu, Jingkai Siow, Xiaoning Du, Yang Liu* 
 
-52. [[TOSEM2019]](https://dl.acm.org/doi/abs/10.1145/3340544) `Bugs2Fix` **An Empirical Study on Learning Bug-Fixing Patches in the Wild via Neural Machine Translation.** [![arXiv](https://img.shields.io/badge/arXiv-1812.08693-b31b1b.svg)](https://arxiv.org/abs/1812.08693), 2018.12
+54. [[TOSEM2019]](https://dl.acm.org/doi/abs/10.1145/3340544) `Bugs2Fix` **An Empirical Study on Learning Bug-Fixing Patches in the Wild via Neural Machine Translation.** [![arXiv](https://img.shields.io/badge/arXiv-1812.08693-b31b1b.svg)](https://arxiv.org/abs/1812.08693), 2018.12
 
     *Michele Tufano, Cody Watson, Gabriele Bavota, Massimiliano Di Penta, Martin White, Denys Poshyvanyk* 
 
-53. [[EMNLP2018]](https://aclanthology.org/D18-1192/) `CONCODE` **Mapping Language to Code in Programmatic Context.** [![arXiv](https://img.shields.io/badge/arXiv-1808.09588-b31b1b.svg)](https://arxiv.org/abs/1808.09588), 2018.08
+55. [[TDSC2022]](https://ieeexplore.ieee.org/document/9321538) **SySeVR: A Framework for Using Deep Learning to Detect Software Vulnerabilities.** [![arXiv](https://img.shields.io/badge/arXiv-1807.06756-b31b1b.svg)](https://arxiv.org/abs/1807.06756), 2018.08
+
+    *Zhen Li, Deqing Zou, Shouhuai Xu, Hai Jin, Yawei Zhu, Zhaoxuan Chen* 
+
+56. [[EMNLP2018]](https://aclanthology.org/D18-1192/) `CONCODE` **Mapping Language to Code in Programmatic Context.** [![arXiv](https://img.shields.io/badge/arXiv-1808.09588-b31b1b.svg)](https://arxiv.org/abs/1808.09588), 2018.08
 
     *Srinivasan Iyer, Ioannis Konstas, Alvin Cheung, Luke Zettlemoyer* 
 
-54. [[IJCAI2018]](https://www.ijcai.org/proceedings/2018/314) `TL-CodeSum` **Summarizing source code with transferred API knowledge.** 2018.07
+57. [[IJCAI2018]](https://www.ijcai.org/proceedings/2018/314) `TL-CodeSum` **Summarizing source code with transferred API knowledge.** 2018.07
 
     *Xing Hu, Ge Li, Xin Xia, David Lo, Shuai Lu, Zhi Jin*
 
-55. [[LREC2018]](https://aclanthology.org/L18-1491/) `NL2Bash` **NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System.** [![arXiv](https://img.shields.io/badge/arXiv-1802.08979-b31b1b.svg)](https://arxiv.org/abs/1802.08979), 2018.02
+
+58.  [[ICMLA2018]](https://ieeexplore.ieee.org/document/8614145) `Draper VDISC` **Automated Vulnerability Detection in Source Code Using Deep Representation Learning.** [![arXiv](https://img.shields.io/badge/arXiv-1807.04320-b31b1b.svg)](https://arxiv.org/abs/1807.04320), 2018.07
+
+    *Rebecca L. Russell, Louis Kim, Lei H. Hamilton, Tomo Lazovich, Jacob A. Harer, Onur Ozdemir, Paul M. Ellingwood, Marc W. McConley*
+
+56. [[LREC2018]](https://aclanthology.org/L18-1491/) `NL2Bash` **NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System.** [![arXiv](https://img.shields.io/badge/arXiv-1802.08979-b31b1b.svg)](https://arxiv.org/abs/1802.08979), 2018.02
 
     *Xi Victoria Lin, Chenglong Wang, Luke Zettlemoyer, Michael D. Ernst* 
 
-56. [[SPLASH Companion 2017]](https://dl.acm.org/doi/abs/10.1145/3135932.3135941) `QuixBugs` **QuixBugs: a multi-lingual program repair benchmark set based on the quixey challenge.** 2017.10
+57. [[NDSS2018]](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-2_Li_paper.pdf) `CGD` **VulDeePecker: A Deep Learning-Based System for Vulnerability Detection.** [![arXiv](https://img.shields.io/badge/arXiv-1801.01681-b31b1b.svg)](https://arxiv.org/abs/1801.01681), 2018.01
+
+    *Zhen Li, Deqing Zou, Shouhuai Xu, Xinyu Ou, Hai Jin, Sujuan Wang, Zhijun Deng, Yuyi Zhong*
+
+
+58. [[SPLASH Companion 2017]](https://dl.acm.org/doi/abs/10.1145/3135932.3135941) `QuixBugs` **QuixBugs: a multi-lingual program repair benchmark set based on the quixey challenge.** 2017.10
 
     *Derrick Lin, James Koppel, Angela Chen, Armando Solar-Lezama*
 
-57. [[ACL2017]](https://aclanthology.org/P17-2045/) `CommitGen` **A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes.** [![arXiv](https://img.shields.io/badge/arXiv-1704.04856-b31b1b.svg)](https://arxiv.org/abs/1704.04856), 2017.04
+59. [[ACL2017]](https://aclanthology.org/P17-2045/) `CommitGen` **A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes.** [![arXiv](https://img.shields.io/badge/arXiv-1704.04856-b31b1b.svg)](https://arxiv.org/abs/1704.04856), 2017.04
 
     *Pablo Loyola, Edison Marrese-Taylor, Yutaka Matsuo* 
 
-58. [[AAAI2017]](https://ojs.aaai.org/index.php/AAAI/article/view/10742) `DeepFix` **DeepFix: Fixing Common C Language Errors by Deep Learning**, 2017.02
+60. [[AAAI2017]](https://ojs.aaai.org/index.php/AAAI/article/view/10742) `DeepFix` **DeepFix: Fixing Common C Language Errors by Deep Learning**, 2017.02
 
     *Rahul Gupta, Soham Pal, Aditya Kanade, Shirish Shevade*
 
-59. [[SIGPLAN Notices2016]](https://dl.acm.org/doi/abs/10.1145/3022671.2984041) `PY150` **Probabilistic Model for Code with Decision Trees.** 2016.10
+61. [[SIGPLAN Notices2016]](https://dl.acm.org/doi/abs/10.1145/3022671.2984041) `PY150` **Probabilistic Model for Code with Decision Trees.** 2016.10
 
     *Veselin Raychev, Pavol Bielik, Martin Vechev* 
 
-60. [[ACL2016]](https://aclanthology.org/P16-1195/) `CODE-NN` **Summarizing Source Code using a Neural Attention Model.** 2016.08
+62. [[ACL2016]](https://aclanthology.org/P16-1195/) `CODE-NN` **Summarizing Source Code using a Neural Attention Model.** 2016.08
 
     *Srinivasan Iyer, Ioannis Konstas, Alvin Cheung, Luke Zettlemoyer* 
 
-61. [[ICSME2015]](https://ieeexplore.ieee.org/abstract/document/7332459) `BigCloneBench` **Evaluating clone detection tools with BigCloneBench.** 2015.10
+63. [[ICSME2015]](https://ieeexplore.ieee.org/abstract/document/7332459) `BigCloneBench` **Evaluating clone detection tools with BigCloneBench.** 2015.10
 
     *Jeffrey Svajlenko, Chanchal K. Roy* 
 
-62. [[AAAI2016]](https://ojs.aaai.org/index.php/AAAI/article/view/10139) `POJ-104` **Convolutional Neural Networks over Tree Structures for Programming Language Processing.** [![arXiv](https://img.shields.io/badge/arXiv-1409.5718-b31b1b.svg)](https://arxiv.org/abs/1409.5718), 2014.09
+64. [[AAAI2016]](https://ojs.aaai.org/index.php/AAAI/article/view/10139) `POJ-104` **Convolutional Neural Networks over Tree Structures for Programming Language Processing.** [![arXiv](https://img.shields.io/badge/arXiv-1409.5718-b31b1b.svg)](https://arxiv.org/abs/1409.5718), 2014.09
 
     *Lili Mou, Ge Li, Lu Zhang, Tao Wang, Zhi Jin* 
 
-63. [[ISSTA2014]](https://dl.acm.org/doi/abs/10.1145/2610384.2628055) `Defects4J` **Defects4J: a database of existing faults to enable controlled testing studies for Java programs.** 2014.07
+65. [[ISSTA2014]](https://dl.acm.org/doi/abs/10.1145/2610384.2628055) `Defects4J` **Defects4J: a database of existing faults to enable controlled testing studies for Java programs.** 2014.07
 
     *René Just, Darioush Jalali, Michael D. Ernst* 
 
-64. [[MSR2013]](https://ieeexplore.ieee.org/abstract/document/6624029) `GitHub Java Corpus` **Mining Source Code Repositories at Massive Scale using Language Modeling.** 2013.05
+66. [[MSR2013]](https://ieeexplore.ieee.org/abstract/document/6624029) `GitHub Java Corpus` **Mining Source Code Repositories at Massive Scale using Language Modeling.** 2013.05
 
     *Miltiadis Allamanis, Charles Sutton* 
