@@ -26,6 +26,6 @@
 
 ### Graph Reasoning and Generation
 
-1. [Preprint] **InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment.** [![arXiv](https://img.shields.io/badge/arXiv-2402.08785-b31b1b.svg)]([https://arxiv.org/abs/2304.09048](https://arxiv.org/pdf/2402.08785.pdf)), 2023.04
+1. [Preprint] **InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment.** [![arXiv](https://img.shields.io/badge/arXiv-2402.08785-b31b1b.svg)](https://arxiv.org/abs/2304.09048), 2023.04
 
    *Jianing Wang, Junda Wu, Yupeng Hou, Yao Liu, Ming Gao, Julian J. McAuley*
