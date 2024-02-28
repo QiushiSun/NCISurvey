@@ -84,3 +84,7 @@
 3. [Preprint] **Solving Probability and Statistics Problems by Program Synthesis** [![arXiv](https://img.shields.io/badge/arXiv-2111.08267-b31b1b.svg)](https://arxiv.org/abs/2111.08267), 2021.11
 
    *Leonard Tang, Elizabeth Ke, Nikhil Singh, Nakul Verma, Iddo Drori*
+
+3. [Preprint] **Faithful Chain-of-Thought Reasoning** [![arXiv](https://arxiv.org/pdf/2301.13379.pdf)](https://arxiv.org/pdf/2301.13379.pdf), 2023.09
+
+   *Qing Lyu, Shreya Havaldar, Adam Stein, Li Zhang, Delip Rao, Eric Wong, Marianna Apidianaki, Chris Callison-Burch*

@@ -75,6 +75,22 @@ If you are interested in our work or find this repository helpful, please use th
 ## Acknowledgements
 
 This is an open collaborative research project among ...
+<!-- 
+<a href="https://github.com/Shark-NLP">
+    <img src="assets/logos/pjlab.png" alt="Shark-NLP Shanghai AI Lab" height = 50/>
+</a>
+<a href="https://github.com/Shark-NLP">
+    <img src="assets/logos/hku_logo.png" alt="Shark-NLP Shanghai AI Lab" height = 50/>
+</a>
+<a href="https://github.com/Shark-NLP">
+    <img src="assets/logos/logo-high.png" alt="NUS" height = 50/>
+</a>
+<a href="https://github.com/Shark-NLP">
+    <img src="assets/logos/astar-logo.png" alt="A*STAR" height = 50/>
+</a>
+<a href="https://github.com/Shark-NLP">
+    <img src="assets/logos/ecnu.svg.png" alt="A*STAR" height = 50/>
+</a> -->
 
 ## Repository Contributors
 
@@ -86,6 +102,7 @@ This is an open collaborative research project among ...
 <a href="https://scholar.google.com/citations?user=S2IPVnwAAAAJ&hl=zh-CN"><img src="https://avatars.githubusercontent.com/njucckevin"  width="50" /></a>
 <a href="https://chang-github-00.github.io/-changma/"><img src="https://avatars.githubusercontent.com/chang-github-00"  width="50" /></a>
 <a href="https://hccngu.github.io/"><img src="https://avatars.githubusercontent.com/hccngu"  width="50" /></a>
+<a href="https://wjn1996.github.io/"><img src="https://avatars.githubusercontent.com/wjn1996"  width="50" /></a>
 
 <!-- ## Other Good Repos for This Topic -->
 
