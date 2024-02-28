@@ -2,7 +2,7 @@
 
 ### Mathematics
 
-1. [NatureArticles] **Solving olympiad geometry without human demonstrations** [link](https://www.nature.com/articles/s41586-023-06747-5), 2024.01
+1. [Nature Articles] **Solving olympiad geometry without human demonstrations** [link](https://www.nature.com/articles/s41586-023-06747-5), 2024.01
 
    *Trieu H. Trinh, Yuhuai Wu, Quoc V. Le, He He, Thang Luong*
 
@@ -68,14 +68,48 @@
 
 
 
-### Bioinformatics
+### Biochemistry
 
-1. [[ICLR2024]](https://openreview.net/forum?id=JbOsMrwjZ3) `BioCoder` **BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual Pragmatic Knowledge.** [![arXiv](https://img.shields.io/badge/arXiv-2308.16458-b31b1b.svg)](https://arxiv.org/abs/2308.16458), 2023.08
+1. [Nature Synthesis] **Universal chemical programming language for robotic synthesis repeatability** [link](https://www.nature.com/articles/s44160-023-00473-6), 2024.01
+
+   *Robert Rauschen, Mason Guy, Jason E. Hein, Leroy Cronin*
+
+2. [Preprint] **DrugAssist: A Large Language Model for Molecule Optimization** [![arXiv](https://img.shields.io/badge/arXiv-2401.10334-b31b1b.svg)](https://arxiv.org/abs/2401.10334), 2024.01
+
+   *Geyan Ye, Xibao Cai, Houtim Lai, Xing Wang, Junhong Huang, Longyue Wang, Wei Liu, Xiangxiang Zeng*
+
+3. [Nature News&Views] **Large language models direct automated chemistry laboratory** [link](https://www.nature.com/articles/d41586-023-03790-0), 2023,12
+
+   *Ana Laura Dias, Tiago Rodrigues*
+
+4. [ACS] **Chatgpt research group for optimizing the crystallinity of mofs and cofs** [link](https://pubs.acs.org/doi/10.1021/acscentsci.3c01087), 2023.09
+
+   *Zhiling Zheng, Oufan Zhang, Ha L. Nguyen, Nakul Rampal, Ali H. Alawadhi, Zichao Rong, Teresa Head-Gordon, Christian Borgs, Jennifer T. Chayes, and Omar M. Yaghi*
+
+5. [ICLR2024] **BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual Pragmatic Knowledge.** [![arXiv](https://img.shields.io/badge/arXiv-2308.16458-b31b1b.svg)](https://arxiv.org/abs/2308.16458), 2023.08
 
    *Xiangru Tang, Bill Qian, Rick Gao, Jiakang Chen, Xinyun Chen, Mark Gerstein* 
 
-### Chemistry
+6. [ICLR2024] **ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback** [![arXiv](https://img.shields.io/badge/arXiv-2305.18090-b31b1b.svg)](https://arxiv.org/abs/2305.18090), 2023.05
 
-1. [Preprint] **Natural language processing models that automate programming will transform chemistry research and teaching.** [![arXiv](https://img.shields.io/badge/arXiv-2108.13360-b31b1b.svg)](https://arxiv.org/abs/2108.13360), 2021.08
+   *Shengchao Liu, Jiongxiao Wang, Yijin Yang, Chengpeng Wang, Ling Liu, Hongyu Guo, Chaowei Xiao*
+
+7. [Preprint] **ChemCrow: Augmenting large-language models with chemistry tools** [![arXiv](https://img.shields.io/badge/arXiv-2304.05376-b31b1b.svg)](https://arxiv.org/abs/2304.05376), 2023.04
+
+   *Andres M Bran, Sam Cox, Oliver Schilter, Carlo Baldassari, Andrew D White, Philippe Schwaller*
+
+8. [Preprint] **Retrieved Sequence Augmentation for Protein Representation Learning**  [link](https://www.biorxiv.org/content/10.1101/2023.02.22.529597v3), 2023.02
+
+   *Chang Ma, Haiteng Zhao, Lin Zheng, Jiayi Xin, Qintong Li, Lijun Wu, Zhihong Deng, Yang Lu, Qi Liu, Lingpeng Kong*
+
+
+9. [Preprint] **Natural language processing models that automate programming will transform chemistry research and teaching.** [![arXiv](https://img.shields.io/badge/arXiv-2108.13360-b31b1b.svg)](https://arxiv.org/abs/2108.13360), 2021.08
 
    *Glen M. Hocky, Andrew D. White* 
+
+10. [Science]**Organic synthesis in a modular robotic system driven by a chemical programming language** [link](https://www.science.org/doi/10.1126/science.aav2211), 2018.11
+
+   *S. Steiner, Jakob B Wolf, S. Glatzel, Anna Andreou, J. Granda, Graham Keenan, T. Hinkley, G. Aragon-Camarasa, Philip J. Kitson, D. Angelone, L. Cronin*
+
+
+
