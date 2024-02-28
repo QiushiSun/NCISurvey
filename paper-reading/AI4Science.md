@@ -107,9 +107,9 @@
 
    *Glen M. Hocky, Andrew D. White* 
 
-10. [Science]**Organic synthesis in a modular robotic system driven by a chemical programming language** [link](https://www.science.org/doi/10.1126/science.aav2211), 2018.11
+10. [Science] **Organic synthesis in a modular robotic system driven by a chemical programming language** [link](https://www.science.org/doi/10.1126/science.aav2211), 2018.11
 
-   *S. Steiner, Jakob B Wolf, S. Glatzel, Anna Andreou, J. Granda, Graham Keenan, T. Hinkley, G. Aragon-Camarasa, Philip J. Kitson, D. Angelone, L. Cronin*
+      *S. Steiner, Jakob B Wolf, S. Glatzel, Anna Andreou, J. Granda, Graham Keenan, T. Hinkley, G. Aragon-Camarasa, Philip J. Kitson, D. Angelone, L. Cronin*
 
 
 
