@@ -7,7 +7,7 @@
 
    *Yucan Guo, Zixuan Li, Xiaolong Jin, Yantao Liu, Yutao Zeng, Wenxuan Liu, Xiang Li, Pan Yang, Long Bai, Jiafeng Guo, Xueqi Cheng* 
 
-2. [Preprint] **GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction.** [![arXiv](https://img.shields.io/badge/arXiv-2310.03668-b31b1b.svg)](https://arxiv.org/abs/2310.03668), 2023.10
+2. [[ICLR2024]](https://openreview.net/forum?id=Y3wpuxd7u9) **GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction.** [![arXiv](https://img.shields.io/badge/arXiv-2310.03668-b31b1b.svg)](https://arxiv.org/abs/2310.03668), 2023.10
 
    *Oscar Sainz, Iker García-Ferrero, Rodrigo Agerri, Oier Lopez de Lacalle, German Rigau, Eneko Agirre* 
 
@@ -23,6 +23,11 @@
 
    *Zhen Bi, Jing Chen, Yinuo Jiang, Feiyu Xiong, Wei Guo, Huajun Chen, Ningyu Zhang*
 
+### Commonsense Reasoning
+
+1. [[EMNLP2022]](https://aclanthology.org/2022.emnlp-main.90/) **Language Models of Code are Few-Shot Commonsense Learners.** [![arXiv](https://img.shields.io/badge/arXiv-2210.07128-b31b1b.svg)](https://arxiv.org/abs/2311.02962), 2022.10
+
+   *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig* 
 
 ### Graph Reasoning and Generation
 

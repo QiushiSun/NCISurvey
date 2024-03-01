@@ -10,7 +10,7 @@ This is the repository of survey paper: **Paradigm, Model and Application: A Sys
 ![License](https://img.shields.io/badge/License-MIT-blue)
 [![Twitter Follow](https://img.shields.io/twitter/follow/qiushi_sun)](https://twitter.com/qiushi_sun)
 
-*Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing here.*
+*Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing in our paper.*
 
 ## News 📰
 - Update on 2024/01/19: Add multiple reading lists 📖
