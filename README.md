@@ -1,5 +1,5 @@
-## Paradigm, Model and Application: A Systematic Survey of Neural Code Intelligence
-This is the repository of survey paper: **Paradigm, Model and Application: A Systematic Survey of Neural Code Intelligence**.
+## A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond
+This is the repository of our paper: **A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**.
 
  [[Paper](https://qiushisun.github.io/)]
  
@@ -24,15 +24,21 @@ This is the repository of survey paper: **Paradigm, Model and Application: A Sys
 > [Qiushi Sun](qiushisun.github.io),
 [Zhirui Chen](https://github.com/jet1004),
 [Fangzhi Xu](https://xufangzhi.github.io/),
-[Zhangyue Yin](https://scholar.google.com/citations?user=9gRQqSkAAAAJ&hl=en),
-[Chang Ma](https://chang-github-00.github.io/-changma/),
-[Shuai Yuan](https://github.com/Luciferder),
 [Kanzhi Cheng](https://scholar.google.com/citations?user=S2IPVnwAAAAJ&hl=zh-CN),
+[Chang Ma](https://chang-github-00.github.io/-changma/),
+[Zhangyue Yin](https://scholar.google.com/citations?user=9gRQqSkAAAAJ&hl=en),
 [Jianing Wang](https://wjn1996.github.io/),
 [Chengcheng Han](https://hccngu.github.io/),
 [Renyu Zhu](https://scholar.google.com/citations?user=tSWULnAAAAAJ&hl=en), 
-[Xiang Li](https://lixiang3776.github.io/), and
-more authors to be announced
+[Shuai Yuan](https://github.com/Luciferder),
+[Qipeng Guo](https://pengcheng.in/),
+[Xipeng Qiu](https://xpqiu.github.io/),
+[Pengcheng Yin](https://pengcheng.in/),
+[Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli), 
+Fei Yuan, 
+[Lingpeng Kong](https://ikekonglp.github.io/), 
+[Xiang Li](https://lixiang3776.github.io/), 
+[Zhiyong Wu](https://lividwo.github.io/zywu.github.io/)
 
 Introducing our survey paper.
 
