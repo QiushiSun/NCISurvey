@@ -1,4 +1,5 @@
-## A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond
+<!-- ## A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond -->
+## Neural Code Intelligence Survey
 This is the repository of our paper: **A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**.
 
  [[Paper](https://qiushisun.github.io/)]
@@ -13,6 +14,7 @@ This is the repository of our paper: **A Survey of Neural Code Intelligence: Par
 *Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing in our paper.*
 
 ## News 📰
+- Update on 2024/03/19: Version 1.0 released 🚀
 - Update on 2024/01/19: Add multiple reading lists 📖
 - Update on 2023/12/29: Add Development Timelines 📅
 - Update on 2023/12/25: Add Contents, Merry Christmas 🍎🎄
@@ -70,11 +72,10 @@ Introducing our survey paper.
 If you are interested in our work or find this repository helpful, please use the following citation format when referencing our paper:
 
 ```bibtex
-@article{sun2023code,
-  title   = {Paradigm, Model and Application: A Systematic Survey of Neural Code Intelligence},
-  author  = {TBD authors},
-  journal = {arXiv preprint arXiv:2312.11562},
-  year    = {2023}
+@misc{sun2024ncisurvey,
+  title   = {A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond},
+  author  = {Qiushi Sun and Zhirui Chen and Fangzhi Xu and Kanzhi Cheng and Chang Ma and Zhangyue Yin and Jianing Wang and Chengcheng Han and Renyu Zhu and Shuai Yuan and Qipeng Guo and Xipeng Qiu and Pengcheng Yin and Xiaoli Li and Fei Yuan and Lingpeng Kong and Xiang Li and Zhiyong Wu},
+  year    = {2024}
 }
 ```
 
