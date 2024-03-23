@@ -1,7 +1,8 @@
-## Paradigm, Model and Application: A Systematic Survey of Neural Code Intelligence
-This is the repository of survey poapaer: **Paradigm, Model and Application: A Systematic Survey of Neural Code Intelligence**.
+<!-- ## A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond -->
+## Neural Code Intelligence Survey
+This is the repository of our paper: **A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**.
 
- [[Paper](https://qiushisun.github.io/)]
+ <!-- [[Paper](https://qiushisun.github.io/)] -->
  
 [![arXiv](https://img.shields.io/badge/arXiv-2304.00685-b31b1b.svg)](https://arxiv.org/abs/2304.00685) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
@@ -10,22 +11,36 @@ This is the repository of survey poapaer: **Paradigm, Model and Application: A S
 ![License](https://img.shields.io/badge/License-MIT-blue)
 [![Twitter Follow](https://img.shields.io/twitter/follow/qiushi_sun)](https://twitter.com/qiushi_sun)
 
-*Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing here.*
+*Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing in our paper.*
 
 ## News 📰
-Last update on 2023/12/25, Merry Christmas🍎🎄
+- Update on 2024/03/19: Version 1.0 released 🚀
+- Update on 2024/01/19: Add multiple reading lists 📖
+- Update on 2023/12/29: Add Development Timelines 📅
+- Update on 2023/12/25: Add Reading Lists, Merry Christmas 🍎🎄
 
 ## Introduction 📜
 
->[**Paradigm, Model and Application: A Systematic Survey of Neural Code Intelligence**](qiushisun.github.io) <br>
+[**A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**](qiushisun.github.io)
 >
 > [Qiushi Sun](qiushisun.github.io),
 [Zhirui Chen](https://github.com/jet1004),
 [Fangzhi Xu](https://xufangzhi.github.io/),
+[Kanzhi Cheng](https://scholar.google.com/citations?user=S2IPVnwAAAAJ&hl=zh-CN),
+[Chang Ma](https://chang-github-00.github.io/-changma/),
 [Zhangyue Yin](https://scholar.google.com/citations?user=9gRQqSkAAAAJ&hl=en),
+[Jianing Wang](https://wjn1996.github.io/),
 [Chengcheng Han](https://hccngu.github.io/),
-[Jianing Wang](https://wjn1996.github.io/), and
-more authors to be announced
+[Renyu Zhu](https://scholar.google.com/citations?user=tSWULnAAAAAJ&hl=en), 
+[Shuai Yuan](https://github.com/Luciferder),
+[Qipeng Guo](https://pengcheng.in/),
+[Xipeng Qiu](https://xpqiu.github.io/),
+[Pengcheng Yin](https://pengcheng.in/),
+[Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli), 
+Fei Yuan, 
+[Lingpeng Kong](https://ikekonglp.github.io/), 
+[Xiang Li](https://lixiang3776.github.io/), 
+[Zhiyong Wu](https://lividwo.github.io/zywu.github.io/)
 
 Introducing our survey paper.
 
@@ -34,39 +49,70 @@ Introducing our survey paper.
 <details open>
 <summary>The Development of Code Intelligence</summary>
 
-![foundation_models](assets/nci-timeline.png)
+![milestones](assets/nci-timeline.png)
 
 </details>
 
-## Paper Collections 📚
+## Paper Collections / Tutorials 📚
 
-- [Language Models for Code](https://github.com/QiushiSun/NCISurvey/blob/main/CodeLMs.md) 🤖
-- [Evaluations and Benchmarks](https://github.com/QiushiSun/NCISurvey/blob/main/Benchmarks.md) 📊 
-- [Code Repair](https://github.com/QiushiSun/NCISurvey/blob/main/Repair.md) 🔧
-- [Reasoning with Code Synthesis](https://github.com/QiushiSun/NCISurvey/blob/main/Reasoning.md) 🧠
-- [Data Science](https://github.com/QiushiSun/NCISurvey/blob/main/DS.md) 🔢
-- [Corpus containing Code Data](https://github.com/QiushiSun/NCISurvey/blob/main/Code-corpus.md) 📚
-- [Code-Based Solutions for NLP Tasks](https://github.com/QiushiSun/NCISurvey/blob/main/NLPTasks-through-code.md) 📝
-- [Code Empowered Agents](https://github.com/QiushiSun/NCISurvey/blob/main/CodeLM-empowered-agents.md) 🤖
+- [Language Models for Code](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/CodeLMs.md) 🤖
+- [Evaluations and Benchmarks](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/Benchmarks.md) 📊 
+- [Code Repair](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/Repair.md) 🔧
+- [Reasoning with Code Synthesis](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/Reasoning.md) 🧠
+- [Data Science](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/DS.md) 🔢
+- [Corpus containing Code Data](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/Code-corpus.md) 📚
+- [Code-Based Solutions for NLP Tasks](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/NLPTasks-through-code.md) 📝
+- [Code Empowered Agents](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/CodeLM-empowered-agents.md) 🤖
+- [Reinforcement Learning with CodeLMs](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/RL-with-CodeLMs.md) 🎮
+- [Code Intelligence assists AI4Science](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/AI4Science.md) 🧪
+- [Awesome Slides, Talks and Blogs](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/tutorials.md) 🧑‍🏫
 
 ## Citation 📖
 
-If you are interested in our work or find this repository helpful, please use the following citation format when referencing our paper:
+🫶 If you are interested in our work or find this repository helpful, please consider using the following citation format when referencing our paper:
 
 ```bibtex
-@article{sun2023code,
-  title   = {Paradigm, Model and Application: A Systematic Survey of Neural Code Intelligence},
-  author  = {TBD authors},
-  journal = {arXiv preprint arXiv:2312.11562},
-  year    = {2023}
+@misc{sun2024ncisurvey,
+  title   = {A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond},
+  author  = {Qiushi Sun and Zhirui Chen and Fangzhi Xu and Kanzhi Cheng and Chang Ma and 
+             Zhangyue Yin and Jianing Wang and Chengcheng Han and Renyu Zhu and Shuai Yuan 
+             and Qipeng Guo and Xipeng Qiu and Pengcheng Yin and Xiaoli Li and Fei Yuan and
+             Lingpeng Kong and Xiang Li and Zhiyong Wu},
+  year    = {2024}
 }
 ```
 
 ## Acknowledgements
 
 This is an open collaborative research project among ...
+<!-- 
+<a href="https://github.com/Shark-NLP">
+    <img src="assets/logos/pjlab.png" alt="Shark-NLP Shanghai AI Lab" height = 50/>
+</a>
+<a href="https://github.com/Shark-NLP">
+    <img src="assets/logos/hku_logo.png" alt="Shark-NLP Shanghai AI Lab" height = 50/>
+</a>
+<a href="https://github.com/Shark-NLP">
+    <img src="assets/logos/logo-high.png" alt="NUS" height = 50/>
+</a>
+<a href="https://github.com/Shark-NLP">
+    <img src="assets/logos/astar-logo.png" alt="A*STAR" height = 50/>
+</a>
+<a href="https://github.com/Shark-NLP">
+    <img src="assets/logos/ecnu.svg.png" alt="A*STAR" height = 50/>
+</a> -->
 
-## Contributors
+## Repository Contributors
+
+<a href="qiushisun.github.io"><img src="https://avatars.githubusercontent.com/QiushiSun"  width="50" /></a>
+<a href="https://github.com/jet1004"><img src="https://avatars.githubusercontent.com/jet1004"  width="50" /></a>
+<a href="https://xufangzhi.github.io/"><img src="https://avatars.githubusercontent.com/xufangzhi"  width="50" /></a>
+<a href="https://github.com/Luciferder"><img src="https://avatars.githubusercontent.com/Luciferder"  width="50" /></a>
+<a href="https://scholar.google.com/citations?user=9gRQqSkAAAAJ&hl=en"><img src="https://avatars.githubusercontent.com/yinzhangyue"  width="50" /></a>
+<a href="https://scholar.google.com/citations?user=S2IPVnwAAAAJ&hl=zh-CN"><img src="https://avatars.githubusercontent.com/njucckevin"  width="50" /></a>
+<a href="https://chang-github-00.github.io/-changma/"><img src="https://avatars.githubusercontent.com/chang-github-00"  width="50" /></a>
+<a href="https://hccngu.github.io/"><img src="https://avatars.githubusercontent.com/hccngu"  width="50" /></a>
+<a href="https://wjn1996.github.io/"><img src="https://avatars.githubusercontent.com/wjn1996"  width="50" /></a>
 
 <!-- ## Other Good Repos for This Topic -->
 

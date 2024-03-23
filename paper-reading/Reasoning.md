@@ -1,4 +1,4 @@
-## Paper collection for Reasoning with Code Synthesis
+## Paper Collection for Reasoning with Code Synthesis
 
 1. [Preprint] **Chain of Code: Reasoning with a Language Model-Augmented Code Emulator** [![arXiv](https://img.shields.io/badge/arXiv-2312.04474-b31b1b.svg)](https://arxiv.org/abs/2312.04474), 2023.12
 
@@ -20,25 +20,25 @@
    *Jiazhan Feng, Ruochen Xu, Junheng Hao, Hiteshi Sharma, Yelong Shen, Dongyan Zhao, Weizhu Chen*
 
 
-3. [ICLR 2024 Under Review] **Lemur: Harmonizing Natural Language and Code for Language Agents** [![arXiv](https://img.shields.io/badge/arXiv-2310.06830-b31b1b.svg)](https://arxiv.org/abs/2310.06830), 2023.10
+3. [ICLR 2024] **Lemur: Harmonizing Natural Language and Code for Language Agents** [![arXiv](https://img.shields.io/badge/arXiv-2310.06830-b31b1b.svg)](https://arxiv.org/abs/2310.06830), 2023.10
 
    *Yiheng Xu, Hongjin Su, Chen Xing, Boyu Mi, Qian Liu, Weijia Shi, Binyuan Hui, Fan Zhou, Yitao Liu, Tianbao Xie, Zhoujun Cheng, Siheng Zhao, Lingpeng Kong, Bailin Wang, Caiming Xiong, Tao Yu*
 
 
-3. [ICLR 2024 Under Review] **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving** [![arXiv](https://img.shields.io/badge/arXiv-2309.17452-b31b1b.svg)](https://arxiv.org/abs/2309.17452), 2023.09
+4. [ICLR 2024] **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving** [![arXiv](https://img.shields.io/badge/arXiv-2309.17452-b31b1b.svg)](https://arxiv.org/abs/2309.17452), 2023.09
 
    *Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen*
 
 
-2. [ICLR 2024 Under Review] **MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning** [![arXiv](https://img.shields.io/badge/arXiv-2309.05653-b31b1b.svg)](https://arxiv.org/abs/2309.05653), 2023.09
+5. [ICLR 2024] **MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning** [![arXiv](https://img.shields.io/badge/arXiv-2309.05653-b31b1b.svg)](https://arxiv.org/abs/2309.05653), 2023.09
 
    *Xiang Yue, Xingwei Qu, Ge Zhang, Yao Fu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen*
 
-3. [AAAI2024] **When Do Program-of-Thoughts Work for Reasoning?** [![arXiv](https://img.shields.io/badge/arXiv-2308.15452-b31b1b.svg)](https://arxiv.org/abs/2308.15452), 2023.08
+6. [AAAI2024] **When Do Program-of-Thoughts Work for Reasoning?** [![arXiv](https://img.shields.io/badge/arXiv-2308.15452-b31b1b.svg)](https://arxiv.org/abs/2308.15452), 2023.08
 
    *Zhen Bi, Ningyu Zhang, Yinuo Jiang, Shumin Deng, Guozhou Zheng, Huajun Chen*
 
-3. [Preprint] **Code Prompting: a Neural Symbolic Method for Complex Reasoning in Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2305.18507-b31b1b.svg)](https://arxiv.org/abs/2305.18507), 2023.05
+7. [Preprint] **Code Prompting: a Neural Symbolic Method for Complex Reasoning in Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2305.18507-b31b1b.svg)](https://arxiv.org/abs/2305.18507), 2023.05
 
    *Yi Hu, Haotong Yang, Zhouchen Lin, Muhan Zhang*
 
@@ -84,3 +84,7 @@
 3. [Preprint] **Solving Probability and Statistics Problems by Program Synthesis** [![arXiv](https://img.shields.io/badge/arXiv-2111.08267-b31b1b.svg)](https://arxiv.org/abs/2111.08267), 2021.11
 
    *Leonard Tang, Elizabeth Ke, Nikhil Singh, Nakul Verma, Iddo Drori*
+
+3. [Preprint] **Faithful Chain-of-Thought Reasoning** [![arXiv](https://arxiv.org/pdf/2301.13379.pdf)](https://arxiv.org/pdf/2301.13379.pdf), 2023.09
+
+   *Qing Lyu, Shreya Havaldar, Adam Stein, Li Zhang, Delip Rao, Eric Wong, Marianna Apidianaki, Chris Callison-Burch*
