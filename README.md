@@ -37,7 +37,7 @@ This is the repository of our paper: **A Survey of Neural Code Intelligence: Par
 [Xipeng Qiu](https://xpqiu.github.io/),
 [Pengcheng Yin](https://pengcheng.in/),
 [Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli), 
-Fei Yuan, 
+[Fei Yuan](https://github.com/CONE-MT), 
 [Lingpeng Kong](https://ikekonglp.github.io/), 
 [Xiang Li](https://lixiang3776.github.io/), 
 [Zhiyong Wu](https://lividwo.github.io/zywu.github.io/)
