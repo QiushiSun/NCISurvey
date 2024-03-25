@@ -4,7 +4,7 @@ This is the repository of our paper: **A Survey of Neural Code Intelligence: Par
 
  <!-- [[Paper](https://qiushisun.github.io/)] -->
  
-[![arXiv](https://img.shields.io/badge/arXiv-2304.00685-b31b1b.svg)](https://arxiv.org/abs/2304.00685) 
+[![arXiv](https://img.shields.io/badge/arXiv-2403.14734-b31b1b.svg)](https://arxiv.org/abs/2403.14734) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -42,7 +42,7 @@ Fei Yuan,
 [Xiang Li](https://lixiang3776.github.io/), 
 [Zhiyong Wu](https://lividwo.github.io/zywu.github.io/)
 
-Introducing our survey paper.
+Introducing the resources provided by our survey paper.
 
 ## Timeline
 
@@ -73,34 +73,45 @@ Introducing our survey paper.
 
 ```bibtex
 @misc{sun2024ncisurvey,
-  title   = {A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond},
-  author  = {Qiushi Sun and Zhirui Chen and Fangzhi Xu and Kanzhi Cheng and Chang Ma and 
-             Zhangyue Yin and Jianing Wang and Chengcheng Han and Renyu Zhu and Shuai Yuan 
-             and Qipeng Guo and Xipeng Qiu and Pengcheng Yin and Xiaoli Li and Fei Yuan and
-             Lingpeng Kong and Xiang Li and Zhiyong Wu},
-  year    = {2024}
+  title         = {A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond},
+  author        = {Qiushi Sun and Zhirui Chen and Fangzhi Xu and Kanzhi Cheng and Chang Ma and 
+                   Zhangyue Yin and Jianing Wang and Chengcheng Han and Renyu Zhu and Shuai Yuan 
+                   and Qipeng Guo and Xipeng Qiu and Pengcheng Yin and Xiaoli Li and Fei Yuan and
+                   Lingpeng Kong and Xiang Li and Zhiyong Wu},
+  eprint        = {2403.14734},
+  archivePrefix = {arXiv},
+  year          = {2024}
 }
 ```
 
 ## Acknowledgements
 
-This is an open collaborative research project among ...
-<!-- 
-<a href="https://github.com/Shark-NLP">
-    <img src="assets/logos/pjlab.png" alt="Shark-NLP Shanghai AI Lab" height = 50/>
+This is an open collaborative research project among:
+
+<a href="https://huggingface.co/OpenAGILab">
+    <img src="assets/logos/pjlab-logo.png" alt="Shark-NLP Shanghai AI Lab" height = 50/>
 </a>
-<a href="https://github.com/Shark-NLP">
+<a href="https://hkunlp.github.io/">
     <img src="assets/logos/hku_logo.png" alt="Shark-NLP Shanghai AI Lab" height = 50/>
 </a>
-<a href="https://github.com/Shark-NLP">
+<a href="https://nus.edu.sg/">
     <img src="assets/logos/logo-high.png" alt="NUS" height = 50/>
 </a>
 <a href="https://github.com/Shark-NLP">
+    <img src="assets/logos/ecnu.svg.png" alt="A*STAR" height = 50/>
+</a>
+<a href="https://dase.ecnu.edu.cn/">
     <img src="assets/logos/astar-logo.png" alt="A*STAR" height = 50/>
 </a>
-<a href="https://github.com/Shark-NLP">
-    <img src="assets/logos/ecnu.svg.png" alt="A*STAR" height = 50/>
-</a> -->
+<a href="https://nlp.fudan.edu.cn/nlpen/main.htm">
+    <img src="assets/logos/fudannlp_logo.png" alt="A*STAR" height = 50/>
+</a>
+<a href="https://deepmind.google/">
+    <img src="assets/logos/DeepMind_new_logo.png" alt="A*STAR" height = 50/>
+</a>
+
+
+
 
 ## Repository Contributors
 
@@ -118,4 +129,4 @@ This is an open collaborative research project among ...
 
 ## Star History 🌟
 
-<!-- [![Star History Chart](https://api.star-history.com/svg?repos=QiushiSun/NCISurvey&type=Date)](https://star-history.com/#QiushiSun/NCISurvey&Date) -->
+[![Star History Chart](https://api.star-history.com/svg?repos=QiushiSun/NCISurvey&type=Date)](https://star-history.com/#QiushiSun/NCISurvey&Date)
