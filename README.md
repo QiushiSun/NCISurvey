@@ -21,7 +21,7 @@ This is the repository of our paper: **A Survey of Neural Code Intelligence: Par
 
 ## Introduction 📜
 
-[**A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**](qiushisun.github.io)
+📃 [**A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**](https://arxiv.org/abs/2403.14734) 
 >
 > [Qiushi Sun](qiushisun.github.io),
 [Zhirui Chen](https://github.com/jet1004),
