@@ -10,6 +10,7 @@ This is the repository of our paper: **A Survey of Neural Code Intelligence: Par
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 [![Twitter Follow](https://img.shields.io/twitter/follow/qiushi_sun)](https://twitter.com/qiushi_sun)
+[🤗](https://huggingface.co/papers/2403.14734)
 
 *Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing in our paper.*
 
