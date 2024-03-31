@@ -1,4 +1,4 @@
-## Paper Collection for Langauge Models for Code
+## Paper Collection for Language Models for Code
 
 ![codelms](../assets/codelms-tree.png)
 
