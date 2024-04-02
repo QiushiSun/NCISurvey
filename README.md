@@ -67,6 +67,7 @@ Introducing the resources provided by our survey paper.
 - [Code Empowered Agents](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/CodeLM-empowered-agents.md) 🤖
 - [Reinforcement Learning with CodeLMs](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/RL-with-CodeLMs.md) 🎮
 - [Code Intelligence assists AI4Science](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/AI4Science.md) 🧪
+- [Software Development](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/Software-Development.md) 🛠️
 - [Awesome Slides, Talks and Blogs](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/tutorials.md) 🧑‍🏫
 
 ## Citation 📖

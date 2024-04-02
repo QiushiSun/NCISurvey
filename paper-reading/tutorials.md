@@ -8,5 +8,5 @@
 
 ## Chinese Blogs
 
-1. [代码表征] Code预训练语言模型学习指南（原理/分析/代码）[[Link]](https://zhuanlan.zhihu.com/p/539929943)
-[![zhihu](https://img.shields.io/badge/dynamic/json?label=upvotes&style=social&logo=zhihu&query=$.voteup_count&url=https://www.zhihu.com/api/v4/articles/539929943)](https://zhuanlan.zhihu.com/p/539929943) 2022.7
+1. [![zhihu](https://img.shields.io/badge/dynamic/json?label=upvotes&style=social&logo=zhihu&query=$.voteup_count&url=https://www.zhihu.com/api/v4/articles/539929943)](https://zhuanlan.zhihu.com/p/539929943) [代码表征] Code预训练语言模型学习指南（原理/分析/代码）[[Link]](https://zhuanlan.zhihu.com/p/539929943)
+ 2022.7
