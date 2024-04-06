@@ -35,7 +35,7 @@ This is the repository of our paper: **A Survey of Neural Code Intelligence: Par
 [Chengcheng Han](https://hccngu.github.io/),
 [Renyu Zhu](https://scholar.google.com/citations?user=tSWULnAAAAAJ&hl=en), 
 [Shuai Yuan](https://github.com/Luciferder),
-[Qipeng Guo](https://pengcheng.in/),
+[Qipeng Guo](https://scholar.google.com/citations?user=k3mPGKgAAAAJ&hl=en),
 [Xipeng Qiu](https://xpqiu.github.io/),
 [Pengcheng Yin](https://pengcheng.in/),
 [Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli), 
@@ -68,6 +68,7 @@ Introducing the resources provided by our survey paper.
 - [Reinforcement Learning with CodeLMs](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/RL-with-CodeLMs.md) 🎮
 - [Code Intelligence assists AI4Science](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/AI4Science.md) 🧪
 - [Software Development](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/Software-Development.md) 🛠️
+- [Multilingual](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/multilingual.md) 🌍
 - [Awesome Slides, Talks and Blogs](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/tutorials.md) 🧑‍🏫
 
 ## Citation 📖
