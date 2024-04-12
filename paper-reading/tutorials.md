@@ -14,11 +14,14 @@
 
 ### Blogs
 
-1. [![zhihu](https://img.shields.io/badge/dynamic/json?label=upvotes&style=social&logo=zhihu&query=$.voteup_count&url=https://www.zhihu.com/api/v4/articles/690777060)](https://zhuanlan.zhihu.com/p/690777060) [论文分享] 代码智能综述：范式、进展与未来 [[Link]](https://zhuanlan.zhihu.com/p/690777060)
- 2024.4
+1. [![zhihu](https://img.shields.io/badge/dynamic/json?label=upvotes&style=social&logo=zhihu&query=$.voteup_count&url=https://www.zhihu.com/api/v4/articles/690777060)](https://zhuanlan.zhihu.com/p/690777060) [论文分享] 代码智能综述：范式、进展与未来 
+<a href = "https://zhuanlan.zhihu.com/p/690777060"><img src="https://img.shields.io/badge/-%E7%9F%A5%E4%B9%8E-%232f6be0" target="_blank"></a> [![Generic badge](https://img.shields.io/badge/WeChat-AINLP解读-green.svg?logo=wechat)](https://mp.weixin.qq.com/s/_rbcz3IQ2cZn6IznFZQTNg) 2024.4 
+ 
+ <!-- [[AINLP中文解读]](https://mp.weixin.qq.com/s/_rbcz3IQ2cZn6IznFZQTNg) -->
 
-1. [![zhihu](https://img.shields.io/badge/dynamic/json?label=upvotes&style=social&logo=zhihu&query=$.voteup_count&url=https://www.zhihu.com/api/v4/articles/539929943)](https://zhuanlan.zhihu.com/p/539929943) [代码表征] Code预训练语言模型学习指南（原理/分析/代码）[[Link]](https://zhuanlan.zhihu.com/p/539929943)
- 2022.7
+1. [![zhihu](https://img.shields.io/badge/dynamic/json?label=upvotes&style=social&logo=zhihu&query=$.voteup_count&url=https://www.zhihu.com/api/v4/articles/539929943)](https://zhuanlan.zhihu.com/p/539929943) [代码表征] Code预训练语言模型学习指南（原理/分析/代码）<a href = "https://zhuanlan.zhihu.com/p/539929943"><img src="https://img.shields.io/badge/-%E7%9F%A5%E4%B9%8E-%232f6be0" target="_blank"></a> 
+[![Generic badge](https://img.shields.io/badge/WeChat-PaperWeekly解读-green.svg?logo=wechat)](https://mp.weixin.qq.com/s/kQ3ARDM06mKnYdzEwuzVLg)
+2022.7
 
 ### Talks
 
