@@ -1,9 +1,10 @@
 <!-- ## A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond -->
+
 ## Neural Code Intelligence Survey
 This is the repository of our paper: **A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**.
 
  <!-- [[Paper](https://qiushisun.github.io/)] -->
- 
+
 [![arXiv](https://img.shields.io/badge/arXiv-2403.14734-b31b1b.svg)](https://arxiv.org/abs/2403.14734) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
@@ -16,6 +17,7 @@ This is the repository of our paper: **A Survey of Neural Code Intelligence: Par
 *Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing in our paper.*
 
 ## News 📰
+- Update on 2024/06/23: Version 1.2 released 🚀
 - Update on 2024/03/19: Version 1.0 released 🚀
 - Update on 2024/01/19: Add multiple reading lists 📖
 - Update on 2023/12/29: Add Development Timelines 📅
@@ -51,7 +53,7 @@ Introducing the resources provided by our survey paper.
 <details open>
 <summary>The Development of Code Intelligence</summary>
 
-![milestones](assets/nci-timeline.png)
+![milestones](assets/codelms-tree.png)
 
 </details>
 
