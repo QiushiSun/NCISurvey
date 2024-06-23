@@ -1,5 +1,9 @@
 ## Paper Collection for Agents empowered by Code
 
+1. [Preprint] **Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2406.11736-b31b1b.svg)](https://arxiv.org/abs/2406.11736), 2024.06
+
+   *Fangzhi Xu, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, Zhiyong Wu*
+   
 1. [Preprint] **Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study** [![arXiv](https://img.shields.io/badge/arXiv-2403.03186-b31b1b.svg)](https://arxiv.org/pdf/2403.03186), 2024.03
 
    *Weihao Tan, Ziluo Ding, Wentao Zhang, Boyu Li, Bohan Zhou, Junpeng Yue, Haochong Xia, Jiechuan Jiang, Longtao Zheng, Xinrun Xu, Yifei Bi, Pengjie Gu, Xinrun Wang, Börje F. Karlsson, Bo An, Zongqing Lu*
