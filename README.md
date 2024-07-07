@@ -80,6 +80,7 @@ Introducing the resources provided by our survey paper.
 - [Code Intelligence assists AI4Science](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/AI4Science.md) 🧪
 - [Software Development](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/Software-Development.md) 🛠️
 - [Multilingual](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/multilingual.md) 🌍
+- [Multimodal Code Generation](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/Multimodal.md) 🎨
 - [Awesome Slides, Talks and Blogs](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/tutorials.md) 🧑‍🏫
 
 ## Citation 📖

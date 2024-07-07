@@ -4,6 +4,10 @@
 
 ### Decoder-Only
 
+1. [Preprint] **CodeGeeX4: Open Multilingual Code Generation Model.** [[Repo]](https://github.com/THUDM/CodeGeeX4), 2024.07
+
+   *Qinkai Zheng and Xiao Xia and Xu Zou and Yuxiao Dong and Shan Wang and Yufei Xue and Zihan Wang and Lei Shen and Andi Wang and Yang Li and Teng Su and Zhilin Yang and Jie Tang*
+
 
 1. [Preprint] **CodeGemma: Open Code Models Based on Gemmaa.** [![arXiv](https://img.shields.io/badge/arXiv-2406.11409-b31b1b.svg)](https://arxiv.org/abs/2406.11409), 2024.06
 
