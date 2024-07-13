@@ -88,6 +88,16 @@ Introducing the resources provided by our survey paper.
 🫶 If you are interested in our work or find this repository helpful, please consider using the following citation format when referencing our paper:
 
 ```bibtex
+@article{sun2024survey,
+  title={A survey of neural code intelligence: Paradigms, advances and beyond},
+  author={Sun, Qiushi and Chen, Zhirui and Xu, Fangzhi and Cheng, Kanzhi and Ma, Chang and Yin, Zhangyue and Wang, Jianing and Han, Chengcheng and Zhu, Renyu and Yuan, Shuai and others},
+  journal={arXiv preprint arXiv:2403.14734},
+  year={2024}
+}
+```
+<!-- 
+
+```bibtex
 @misc{sun2024ncisurvey,
   title         = {A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond},
   author        = {Qiushi Sun and Zhirui Chen and Fangzhi Xu and Kanzhi Cheng and Chang Ma and 
@@ -98,7 +108,7 @@ Introducing the resources provided by our survey paper.
   archivePrefix = {arXiv},
   year          = {2024}
 }
-```
+``` -->
 
 ## Acknowledgements
 
