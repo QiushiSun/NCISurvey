@@ -4,6 +4,11 @@
 
 ### Decoder-Only
 
+1. [Preprint] **aiXcoder** [[Website]](https://github.com/aixcoder-plugin/aiXcoder-7B)
+
+   *aiXcoder Contributors*
+
+
 1. [Preprint] **CodeGeeX4: Open Multilingual Code Generation Model.** [[Repo]](https://github.com/THUDM/CodeGeeX4), 2024.07
 
    *Qinkai Zheng and Xiao Xia and Xu Zou and Yuxiao Dong and Shan Wang and Yufei Xue and Zihan Wang and Lei Shen and Andi Wang and Yang Li and Teng Su and Zhilin Yang and Jie Tang*

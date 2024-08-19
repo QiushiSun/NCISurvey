@@ -62,7 +62,7 @@ Introducing the resources provided by our survey paper.
 
 - [Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models](https://arxiv.org/abs/2406.11736) 2024.06
 - [Symbolic Learning Enables Self-Evolving Agents](https://arxiv.org/pdf/2406.18532v1) 2024.06
-- [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/pdf/2403.03101) 2024.03
+- [aiXcoder](https://huggingface.co/aiXcoder/aixcoder-7b-base) 2024.04
 - [Making Language Models Better Tool Learners with Execution Feedback](https://arxiv.org/abs/2305.13068) 2024.03
 
 
