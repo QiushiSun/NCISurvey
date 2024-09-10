@@ -1,23 +1,27 @@
 ## Paper Collection for Code-related Evaluation and Benchmarks
 
 
-1. [Preprint] **MHPP: Exploring the Capabilities and Limitations of Language Models Beyond Basic Code Generation** [![arXiv](https://img.shields.io/badge/arXiv-2405.11430-b31b1b.svg)](https://arxiv.org/abs/2405.11430), 2024.05
+1. [Preprint] **CodeRAG-Bench: Can Retrieval Augment Code Generation?** [![arXiv](https://img.shields.io/badge/arXiv-2406.14497-b31b1b.svg)](https://arxiv.org/abs/2406.14497), 2024.05
+
+   *Zora Zhiruo Wang, Akari Asai, Xinyan Velocity Yu, Frank F. Xu, Yiqing Xie, Graham Neubig, Daniel Fried*
+
+2. [Preprint] **MHPP: Exploring the Capabilities and Limitations of Language Models Beyond Basic Code Generation** [![arXiv](https://img.shields.io/badge/arXiv-2405.11430-b31b1b.svg)](https://arxiv.org/abs/2405.11430), 2024.05
 
    *Jianbo Dai, Jianqiao Lu, Yunlong Feng, Rongju Ruan, Ming Cheng, Haochen Tan, Zhijiang Guo*
 
-2. [Preprint] **NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and Natural User Prompts.** [![arXiv](https://img.shields.io/badge/arXiv-2405.04520-b31b1b.svg)](https://arxiv.org/abs/2405.04520), 2024.05
+3. [Preprint] **NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and Natural User Prompts.** [![arXiv](https://img.shields.io/badge/arXiv-2405.04520-b31b1b.svg)](https://arxiv.org/abs/2405.04520), 2024.05
 
    *Shudan Zhang, Hanlin Zhao, Xiao Liu, Qinkai Zheng, Zehan Qi, Xiaotao Gu, Xiaohan Zhang, Yuxiao Dong, Jie Tang*
 
-3. [Preprint] **DebugBench: Evaluating Debugging Capability of Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2401.04621-b31b1b.svg)](https://arxiv.org/abs/2401.04621), 2024.01
+4. [Preprint] **DebugBench: Evaluating Debugging Capability of Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2401.04621-b31b1b.svg)](https://arxiv.org/abs/2401.04621), 2024.01
 
    *Runchu Tian, Yining Ye, Yujia Qin, Xin Cong, Yankai Lin, Yinxu Pan, Yesai Wu, Zhiyuan Liu, Maosong Sun*
    
-4. [Preprint] `VulBench` **How Far Have We Gone in Vulnerability Detection Using Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2311.12420-b31b1b.svg)](https://arxiv.org/abs/2311.12420), 2023.12
+5. [Preprint] `VulBench` **How Far Have We Gone in Vulnerability Detection Using Large Language Models.** [![arXiv](https://img.shields.io/badge/arXiv-2311.12420-b31b1b.svg)](https://arxiv.org/abs/2311.12420), 2023.12
 
    *Zeyu Gao, Hao Wang, Yuchen Zhou, Wenyu Zhu, Chao Zhang*
    
-5. [Preprint] `InstructCoder` **InstructCoder: Empowering Language Models for Code Editing.** [![arXiv](https://img.shields.io/badge/arXiv-2310.20329-b31b1b.svg)](https://arxiv.org/abs/2310.20329), 2023.10
+6. [Preprint] `InstructCoder` **InstructCoder: Empowering Language Models for Code Editing.** [![arXiv](https://img.shields.io/badge/arXiv-2310.20329-b31b1b.svg)](https://arxiv.org/abs/2310.20329), 2023.10
 
    *Qisheng Hu, Kaixin Li, Xu Zhao, Yuxi Xie, Tiedong Liu, Hui Chen, Qizhe Xie, Junxian He* 
 
